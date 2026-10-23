@@ -1,0 +1,7 @@
+# PeMS source and derived datasets are too large for a normal GitHub push.
+/data/raw/
+/data/processed/
+/d12_text_station_5min_2026.zip
+
+# Temporary rendering and visual QA artifacts.
+/reports/template_inspection/
