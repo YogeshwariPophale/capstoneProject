@@ -1,0 +1,108 @@
+{
+  "target": "average speed (mph) 15 minutes after forecast origin",
+  "scope": "District 12 I-5, matched mainline stations, both directions",
+  "quality_rule": "% observed >= 90 for every input speed row and the target row",
+  "feature_columns": [
+    "speed_now_mph",
+    "speed_lag_5m_mph",
+    "speed_lag_10m_mph",
+    "speed_lag_15m_mph",
+    "flow_now_5m",
+    "flow_lag_5m",
+    "occupancy_now",
+    "occupancy_lag_5m",
+    "absolute_postmile",
+    "is_southbound",
+    "hour_sin",
+    "hour_cos",
+    "weekday_sin",
+    "weekday_cos",
+    "is_weekend",
+    "month_sin",
+    "month_cos"
+  ],
+  "split": {
+    "train": "Jan-May 2026",
+    "validation": "June 2026",
+    "test": "July-Aug 2026"
+  },
+  "sample_caps": {
+    "train": 300000,
+    "validation": 75000,
+    "test": 150000
+  },
+  "eligible_rows": {
+    "train": 5608018,
+    "validation": 901020,
+    "test": 1843305
+  },
+  "sampled_rows": {
+    "train": 300000,
+    "validation": 75000,
+    "test": 150000
+  },
+  "monthly_mainline_records_scanned": {
+    "2026-01": 1987200,
+    "2026-02": 1854720,
+    "2026-03": 1587000,
+    "2026-04": 1722240,
+    "2026-05": 1920960,
+    "2026-06": 1656000,
+    "2026-07": 1788480,
+    "2026-08": 1854720
+  },
+  "model": "HistGradientBoostingRegressor; 100 iterations; max_leaf_nodes=31",
+  "seed": 42,
+  "validation": {
+    "persistence": {
+      "mae_mph": 1.8221054077148438,
+      "rmse_mph": 3.3129480886586453,
+      "r2": 0.8330902457237244
+    },
+    "hist_gradient_boosting": {
+      "mae_mph": 1.6821607338015006,
+      "rmse_mph": 2.993482428645412,
+      "r2": 0.8637282192118412
+    },
+    "model_mae_improvement_percent_vs_persistence": 7.680382996549686
+  },
+  "test": {
+    "persistence": {
+      "mae_mph": 1.760388731956482,
+      "rmse_mph": 3.206956757994102,
+      "r2": 0.8385729193687439
+    },
+    "hist_gradient_boosting": {
+      "mae_mph": 1.609848693317131,
+      "rmse_mph": 2.863421173729191,
+      "r2": 0.8713053038651355
+    },
+    "model_mae_improvement_percent_vs_persistence": 8.551522507874834,
+    "N_only": {
+      "rows": 72872,
+      "persistence": {
+        "mae_mph": 1.6857737302780151,
+        "rmse_mph": 2.9425494035772237,
+        "r2": 0.8551902174949646
+      },
+      "hist_gradient_boosting": {
+        "mae_mph": 1.549219346923326,
+        "rmse_mph": 2.6520417228841815,
+        "r2": 0.8823718970105815
+      }
+    },
+    "S_only": {
+      "rows": 77128,
+      "persistence": {
+        "mae_mph": 1.8308862447738647,
+        "rmse_mph": 3.4381421963154697,
+        "r2": 0.8246123194694519
+      },
+      "hist_gradient_boosting": {
+        "mae_mph": 1.667132451879642,
+        "rmse_mph": 3.0497054391514857,
+        "r2": 0.8620037771172953
+      }
+    }
+  }
+}

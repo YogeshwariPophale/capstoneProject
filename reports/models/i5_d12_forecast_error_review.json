@@ -1,0 +1,25 @@
+{
+  "test_period": "July-August 2026",
+  "eligible_rows_evaluated": 1843305,
+  "rows_by_month": {
+    "2026-07": 884734,
+    "2026-08": 958571
+  },
+  "quality_rule": ">=90% observed for input speed rows and target; exact five-minute intervals",
+  "subgroup_metrics": "i5_d12_forecast_error_subgroups.csv",
+  "largest_errors": "i5_d12_forecast_largest_errors.csv",
+  "overall_metrics": [
+    {
+      "dimension": "overall",
+      "group": "all",
+      "rows": 1843305,
+      "model_mae_mph": 1.6011708113396486,
+      "model_rmse_mph": 2.858270194401736,
+      "model_r2": 0.8723326897496477,
+      "persistence_mae_mph": 1.7474662644020311,
+      "persistence_rmse_mph": 3.1975781221012634,
+      "mae_improvement_pct": 8.371861365371977
+    }
+  ],
+  "interpretation": "Continuous speed forecast errors; target-speed bands are descriptive error strata, not congestion labels."
+}

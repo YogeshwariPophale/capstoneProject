@@ -1,0 +1,716 @@
+﻿direction,station_id,in_observations_2026_jan_sep,in_supplied_pems_inventory,district,freeway,county,city,postmile_ca,postmile_absolute,station_name,station_type,hov,metadata_scope,validation
+N,1204198,True,True,12,5,Orange,San Clemente,.65,72.908,S. LUIS REY,Mainline,No,station-level from supplied N inventory,match
+N,1204209,True,True,12,5,Orange,San Clemente,1.24,73.498,MAGDALENA,Off Ramp,No,station-level from supplied N inventory,match
+N,1204211,True,True,12,5,Orange,San Clemente,1.26,73.518,MAGDALENA,Mainline,No,station-level from supplied N inventory,match
+N,1204204,True,True,12,5,Orange,San Clemente,1.26,73.518,MAGDALENA,On Ramp,No,station-level from supplied N inventory,match
+N,1204230,True,True,12,5,Orange,San Clemente,1.83,74.088,EL CAMINO REAL,Mainline,No,station-level from supplied N inventory,match
+N,1204222,True,True,12,5,Orange,San Clemente,1.84,74.098,EL CAMINO REAL,On Ramp,No,station-level from supplied N inventory,match
+N,1204242,True,True,12,5,Orange,San Clemente,2.45,74.708,PRESIDIO,Off Ramp,No,station-level from supplied N inventory,match
+N,1204236,True,True,12,5,Orange,San Clemente,2.47,74.728,PRESIDIO,On Ramp,No,station-level from supplied N inventory,match
+N,1204244,True,True,12,5,Orange,San Clemente,2.47,74.728,PRESIDIO,Mainline,No,station-level from supplied N inventory,match
+N,1204255,True,True,12,5,Orange,San Clemente,2.8,75.058,PALIZADA,Mainline,No,station-level from supplied N inventory,match
+N,1204250,True,True,12,5,Orange,San Clemente,2.8,75.058,PALIZADA,On Ramp,No,station-level from supplied N inventory,match
+N,1221652,True,True,12,5,Orange,San Clemente,3.23,75.488,PICO 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1221653,True,True,12,5,Orange,San Clemente,3.23,75.488,PICO 1,HOV,24H,station-level from supplied N inventory,match
+N,1210908,True,True,12,5,Orange,San Clemente,3.23,75.488,PICO 1,Mainline,No,station-level from supplied N inventory,match
+N,1221572,True,True,12,5,Orange,San Clemente,3.56,75.818,PICO 2,HOV,24H,station-level from supplied N inventory,match
+N,1221571,True,True,12,5,Orange,San Clemente,3.56,75.818,PICO 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1204268,True,True,12,5,Orange,San Clemente,3.56,75.818,PICO 2,Mainline,No,station-level from supplied N inventory,match
+N,1204261,True,True,12,5,Orange,San Clemente,3.56,75.818,PICO 2,On Ramp,No,station-level from supplied N inventory,match
+N,1204279,True,True,12,5,Orange,San Clemente,4.02,76.278,HERMOSA 1,Mainline,No,station-level from supplied N inventory,match
+N,1213204,True,True,12,5,Orange,San Clemente,4.02,76.278,HERMOSA 1,On Ramp,No,station-level from supplied N inventory,match
+N,1221063,True,True,12,5,Orange,San Clemente,4.02,76.278,HERMOSA 1,HOV,24H,station-level from supplied N inventory,match
+N,1213203,True,True,12,5,Orange,San Clemente,4.02,76.278,HERMOSA 1,On Ramp,No,station-level from supplied N inventory,match
+N,1213215,True,True,12,5,Orange,San Clemente,4.1,76.358,HERMOSA 2,Mainline,No,station-level from supplied N inventory,match
+N,1221067,True,True,12,5,Orange,San Clemente,4.1,76.358,HERMOSA 2,HOV,24H,station-level from supplied N inventory,match
+N,1213216,True,True,12,5,Orange,San Clemente,4.1,76.358,HERMOSA 2,On Ramp,No,station-level from supplied N inventory,match
+N,1221234,True,True,12,5,Orange,San Clemente,4.7,76.958,S OF VAQUERO,HOV,24H,station-level from supplied N inventory,match
+N,1221232,True,True,12,5,Orange,San Clemente,4.7,76.958,S OF VAQUERO,Mainline,No,station-level from supplied N inventory,match
+N,1221197,True,True,12,5,Orange,San Clemente,5.25,77.508,N OF VAQUERO,HOV,24H,station-level from supplied N inventory,match
+N,1204301,True,True,12,5,Orange,San Clemente,5.4,77.658,N OF VAQUERO,Mainline,No,station-level from supplied N inventory,match
+N,1204316,True,True,12,5,Orange,San Clemente,5.73,77.988,ESTRELLA1,Mainline,No,station-level from supplied N inventory,match
+N,1204312,True,True,12,5,Orange,San Clemente,5.73,77.988,ESTRELLA1,On Ramp,No,station-level from supplied N inventory,match
+N,1221057,True,True,12,5,Orange,San Clemente,5.73,77.988,ESTRELLA1,HOV,24H,station-level from supplied N inventory,match
+N,1221059,True,True,12,5,Orange,San Clemente,5.73,77.988,ESTRELLA1,Off Ramp,No,station-level from supplied N inventory,match
+N,1221051,True,True,12,5,Orange,Dana Point,5.89,78.148,ESTRELLA2,HOV,24H,station-level from supplied N inventory,match
+N,1204328,True,True,12,5,Orange,Dana Point,5.89,78.148,ESTRELLA2,Mainline,No,station-level from supplied N inventory,match
+N,1204322,True,True,12,5,Orange,Dana Point,5.89,78.148,ESTRELLA2,On Ramp,No,station-level from supplied N inventory,match
+N,1204340,True,True,12,5,Orange,Dana Point,6.47,78.728,SACRAMENTO,Mainline,No,station-level from supplied N inventory,match
+N,1204335,True,True,12,5,Orange,Dana Point,6.47,78.728,SACRAMENTO,Off Ramp,No,station-level from supplied N inventory,match
+N,1204337,True,True,12,5,Orange,Dana Point,6.47,78.728,N5 to N1,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1210059,True,True,12,5,Orange,San Juan Capistrano,6.91,79.168,LAS RAMBLES,HOV,24H,station-level from supplied N inventory,match
+N,1204367,True,True,12,5,Orange,San Juan Capistrano,6.91,79.168,LAS RAMBLAS,On Ramp,No,station-level from supplied N inventory,match
+N,1204372,True,True,12,5,Orange,San Juan Capistrano,6.91,79.168,LAS RAMBLES,Mainline,No,station-level from supplied N inventory,match
+N,1210061,True,True,12,5,Orange,San Juan Capistrano,7.46,79.718,CAPISTRANO,HOV,24H,station-level from supplied N inventory,match
+N,1204378,True,True,12,5,Orange,San Juan Capistrano,7.46,79.718,CAPISTRANO,On Ramp,No,station-level from supplied N inventory,match
+N,1204384,True,True,12,5,Orange,San Juan Capistrano,7.46,79.718,CAPISTRANO,Mainline,No,station-level from supplied N inventory,match
+N,1204395,True,True,12,5,Orange,San Juan Capistrano,7.99,80.248,AEROPUERTO,Mainline,No,station-level from supplied N inventory,match
+N,1210063,True,True,12,5,Orange,San Juan Capistrano,7.99,80.248,AEROPUERTO,HOV,24H,station-level from supplied N inventory,match
+N,1210066,True,True,12,5,Orange,San Juan Capistrano,8.64,80.898,S JUAN CREEK,HOV,24H,station-level from supplied N inventory,match
+N,1204403,True,True,12,5,Orange,San Juan Capistrano,8.64,80.898,S JUAN CREEK,On Ramp,No,station-level from supplied N inventory,match
+N,1211079,True,True,12,5,Orange,San Juan Capistrano,8.64,80.898,S JUAN CREEK,Off Ramp,No,station-level from supplied N inventory,match
+N,1204409,True,True,12,5,Orange,San Juan Capistrano,8.64,80.898,S JUAN CREEK,Mainline,No,station-level from supplied N inventory,match
+N,1210926,True,True,12,5,Orange,San Juan Capistrano,9.15,81.408,PLAZA,Mainline,No,station-level from supplied N inventory,match
+N,1210927,True,True,12,5,Orange,San Juan Capistrano,9.15,81.408,PLAZA,HOV,24H,station-level from supplied N inventory,match
+N,1210948,True,True,12,5,Orange,San Juan Capistrano,9.4,81.658,ORTEGA  1,Off Ramp,No,station-level from supplied N inventory,match
+N,1220030,True,True,12,5,Orange,San Juan Capistrano,9.67,81.928,ORTEGA 1,Mainline,No,station-level from supplied N inventory,match
+N,1220039,True,True,12,5,Orange,San Juan Capistrano,9.67,81.928,ORTEGA 1,On Ramp,No,station-level from supplied N inventory,match
+N,1220042,True,True,12,5,Orange,San Juan Capistrano,9.67,81.928,ORTEGA 1,HOV,24H,station-level from supplied N inventory,match
+N,1210069,True,True,12,5,Orange,San Juan Capistrano,9.69,81.948,ORTEGA  2,HOV,24H,station-level from supplied N inventory,match
+N,1204417,True,True,12,5,Orange,San Juan Capistrano,9.69,81.948,ORTEGA  2,On Ramp,No,station-level from supplied N inventory,match
+N,1204422,True,True,12,5,Orange,San Juan Capistrano,9.69,81.948,ORTEGA  2,Mainline,No,station-level from supplied N inventory,match
+N,1210975,True,True,12,5,Orange,San Juan Capistrano,10.1,82.358,EL HORNO,HOV,24H,station-level from supplied N inventory,match
+N,1210974,True,True,12,5,Orange,San Juan Capistrano,10.1,82.358,EL HORNO,Mainline,No,station-level from supplied N inventory,match
+N,1210992,True,True,12,5,Orange,San Juan Capistrano,10.4,82.658,SERRA PARK,HOV,24H,station-level from supplied N inventory,match
+N,1210991,True,True,12,5,Orange,San Juan Capistrano,10.4,82.658,SERRA PARK,Mainline,No,station-level from supplied N inventory,match
+N,1211845,True,True,12,5,Orange,San Juan Capistrano,10.7,82.958,JUNIPERO SERRA,Off Ramp,No,station-level from supplied N inventory,match
+N,1210071,True,True,12,5,Orange,San Juan Capistrano,11.05,83.308,JUNIPERO SERRA,HOV,24H,station-level from supplied N inventory,match
+N,1204436,True,True,12,5,Orange,San Juan Capistrano,11.05,83.308,JUNIPERO SERRA,Mainline,No,station-level from supplied N inventory,match
+N,1204430,True,True,12,5,Orange,San Juan Capistrano,11.06,83.318,JUNIPERO SERRA,On Ramp,No,station-level from supplied N inventory,match
+N,1204447,True,True,12,5,Orange,San Juan Capistrano,11.37,83.628,TRABUCO,Mainline,No,station-level from supplied N inventory,match
+N,1211088,True,True,12,5,Orange,San Juan Capistrano,11.37,83.628,TRABUCO,HOV,24H,station-level from supplied N inventory,match
+N,1204453,True,True,12,5,Orange,San Juan Capistrano,11.91,84.168,WILDWOOD,Mainline,No,station-level from supplied N inventory,match
+N,1211095,True,True,12,5,Orange,San Juan Capistrano,11.91,84.168,WILDWOOD,HOV,24H,station-level from supplied N inventory,match
+N,1211109,True,True,12,5,Orange,San Juan Capistrano,12.26,84.518,N5 to N73,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1211107,True,True,12,5,Orange,San Juan Capistrano,12.26,84.518,S OF 73,Mainline,No,station-level from supplied N inventory,match
+N,1211108,True,True,12,5,Orange,San Juan Capistrano,12.26,84.518,S OF 73,HOV,24H,station-level from supplied N inventory,match
+N,1222006,True,True,12,5,Orange,San Juan Capistrano,12.549,84.807,MVDS at Avery 1,Mainline,No,station-level from supplied N inventory,match
+N,1222034,True,True,12,5,Orange,San Juan Capistrano,12.549,84.807,MVDS S-O Avery,HOV,24H,station-level from supplied N inventory,match
+N,1213767,True,True,12,5,Orange,Mission Viejo,12.8,85.058,AVERY 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1221987,True,True,12,5,Orange,Mission Viejo,13.049,85.307,MVDS at AVERY,HOV,24H,station-level from supplied N inventory,match
+N,1221985,True,True,12,5,Orange,Mission Viejo,13.049,85.307,MVDS at AVERY,Mainline,No,station-level from supplied N inventory,match
+N,1204472,True,True,12,5,Orange,Mission Viejo,13.05,85.308,AVERY PARK,Mainline,No,station-level from supplied N inventory,match
+N,1210073,True,True,12,5,Orange,Mission Viejo,13.05,85.308,AVERY PARK,HOV,24H,station-level from supplied N inventory,match
+N,1204466,True,True,12,5,Orange,Mission Viejo,13.06,85.318,AVERY PARK,On Ramp,No,station-level from supplied N inventory,match
+N,1204498,True,True,12,5,Orange,Mission Viejo,13.57,85.828,CROWN VA1,Off Ramp,No,station-level from supplied N inventory,match
+N,1210075,True,True,12,5,Orange,Mission Viejo,13.7,85.958,CROWN VA1,HOV,24H,station-level from supplied N inventory,match
+N,1222018,True,True,12,5,Orange,Mission Viejo,13.7,85.958,MVDS S-O Crown Va,Mainline,No,station-level from supplied N inventory,match
+N,1204486,True,True,12,5,Orange,Mission Viejo,13.7,85.958,CROWN VA1,Mainline,No,station-level from supplied N inventory,match
+N,1222036,True,True,12,5,Orange,Mission Viejo,13.7,85.958,MVDS S-O Crown Va,HOV,24H,station-level from supplied N inventory,match
+N,1204480,True,True,12,5,Orange,Mission Viejo,13.71,85.968,CROWN VA1,On Ramp,No,station-level from supplied N inventory,match
+N,1210078,True,True,12,5,Orange,Mission Viejo,13.87,86.128,CROWN VA2,HOV,24H,station-level from supplied N inventory,match
+N,1204501,True,True,12,5,Orange,Mission Viejo,13.87,86.128,CROWN VA2,Mainline,No,station-level from supplied N inventory,match
+N,1222023,True,True,12,5,Orange,Mission Viejo,13.88,86.138,MVDS Crown Valley 2,Mainline,No,station-level from supplied N inventory,match
+N,1204492,True,True,12,5,Orange,Mission Viejo,13.88,86.138,CROWN VA2,On Ramp,No,station-level from supplied N inventory,match
+N,1213570,True,True,12,5,Orange,Mission Viejo,14.46,86.718,FAIRCOURT,Mainline,No,station-level from supplied N inventory,match
+N,1213568,True,True,12,5,Orange,Mission Viejo,14.46,86.718,FAIRCOURT,HOV,24H,station-level from supplied N inventory,match
+N,1210081,True,True,12,5,Orange,Mission Viejo,15.13,87.388,OSO PARK1,HOV,24H,station-level from supplied N inventory,match
+N,1204513,True,True,12,5,Orange,Mission Viejo,15.13,87.388,OSO PARK 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1204515,True,True,12,5,Orange,Mission Viejo,15.13,87.388,OSO PARK1,Mainline,No,station-level from supplied N inventory,match
+N,1204509,True,True,12,5,Orange,Mission Viejo,15.14,87.398,OSO PARK1,On Ramp,No,station-level from supplied N inventory,match
+N,1221812,True,True,12,5,Orange,Mission Viejo,15.158,87.416,OSO 1,HOV,24H,station-level from supplied N inventory,match
+N,1221811,True,True,12,5,Orange,Mission Viejo,15.158,87.416,OSO 1,Mainline,No,station-level from supplied N inventory,match
+N,1210083,True,True,12,5,Orange,Mission Viejo,15.35,87.608,OSO PARK2,HOV,24H,station-level from supplied N inventory,match
+N,1204532,True,True,12,5,Orange,Mission Viejo,15.35,87.608,OSO PARK2,Mainline,No,station-level from supplied N inventory,match
+N,1204523,True,True,12,5,Orange,Mission Viejo,15.36,87.618,OSO PARK2,On Ramp,No,station-level from supplied N inventory,match
+N,1221803,True,True,12,5,Orange,Mission Viejo,15.391,87.649,OSO 2,Mainline,No,station-level from supplied N inventory,match
+N,1221804,True,True,12,5,Orange,Mission Viejo,15.391,87.649,OSO 2,HOV,24H,station-level from supplied N inventory,match
+N,1213700,True,True,12,5,Orange,Mission Viejo,15.8,88.058,CERVANTES,Mainline,No,station-level from supplied N inventory,match
+N,1213708,True,True,12,5,Orange,Mission Viejo,15.8,88.058,CERVANTES,HOV,24H,station-level from supplied N inventory,match
+N,1204544,True,True,12,5,Orange,Mission Viejo,16.37,88.628,LA PAZ 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1221835,True,True,12,5,Orange,Laguna Hills,16.467,88.725,LA PAZ 1,Mainline,No,station-level from supplied N inventory,match
+N,1221836,True,True,12,5,Orange,Laguna Hills,16.467,88.725,LA PAZ 1,HOV,24H,station-level from supplied N inventory,match
+N,1204546,True,True,12,5,Orange,Laguna Hills,16.51,88.768,LA PAZ 1,Mainline,No,station-level from supplied N inventory,match
+N,1210085,True,True,12,5,Orange,Laguna Hills,16.51,88.768,LA PAZ 1,HOV,24H,station-level from supplied N inventory,match
+N,1204540,True,True,12,5,Orange,Laguna Hills,16.52,88.778,LA PAZ 1,On Ramp,No,station-level from supplied N inventory,match
+N,1204559,True,True,12,5,Orange,Laguna Hills,16.69,88.948,LA PAZ 2,Mainline,No,station-level from supplied N inventory,match
+N,1210087,True,True,12,5,Orange,Laguna Hills,16.69,88.948,LA PAZ 2,HOV,24H,station-level from supplied N inventory,match
+N,1204554,True,True,12,5,Orange,Laguna Hills,16.7,88.958,LA PAZ 2,On Ramp,No,station-level from supplied N inventory,match
+N,1221844,True,True,12,5,Orange,Laguna Hills,16.773,89.031,LA PAZ 2,HOV,24H,station-level from supplied N inventory,match
+N,1221843,True,True,12,5,Orange,Laguna Hills,16.773,89.031,LA PAZ 2,Mainline,No,station-level from supplied N inventory,match
+N,1204571,True,True,12,5,Orange,Laguna Hills,17.43,89.688,ALICIA 1,Mainline,No,station-level from supplied N inventory,match
+N,1217923,True,True,12,5,Orange,Laguna Hills,17.43,89.688,ALICIA 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1210089,True,True,12,5,Orange,Laguna Hills,17.43,89.688,ALICIA 1,HOV,24H,station-level from supplied N inventory,match
+N,1204567,True,True,12,5,Orange,Laguna Hills,17.44,89.698,ALICIA 1,On Ramp,No,station-level from supplied N inventory,match
+N,1204586,True,True,12,5,Orange,Laguna Hills,17.63,89.888,ALICIA 2,Mainline,No,station-level from supplied N inventory,match
+N,1204591,True,True,12,5,Orange,Laguna Hills,17.63,89.888,ALICIA 2,HOV,24H,station-level from supplied N inventory,match
+N,1204579,True,True,12,5,Orange,Laguna Hills,17.64,89.898,ALICIA 2,On Ramp,No,station-level from supplied N inventory,match
+N,1213525,True,True,12,5,Orange,Laguna Hills,18.17,90.428,ANKERTON,HOV,24H,station-level from supplied N inventory,match
+N,1213527,True,True,12,5,Orange,Laguna Hills,18.17,90.428,ANKERTON,Mainline,No,station-level from supplied N inventory,match
+N,1210103,True,True,12,5,Orange,Laguna Hills,18.61,90.868,EL TORO 1,HOV,24H,station-level from supplied N inventory,match
+N,1204615,True,True,12,5,Orange,Laguna Hills,18.61,90.868,EL TORO 1,Mainline,No,station-level from supplied N inventory,match
+N,1218489,True,True,12,5,Orange,Laguna Hills,18.61,90.868,EL TORO 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1204609,True,True,12,5,Orange,Laguna Hills,18.62,90.878,EL TORO 1,On Ramp,No,station-level from supplied N inventory,match
+N,1204632,True,True,12,5,Orange,Laguna Hills,18.82,91.078,EL TORO 2,Mainline,No,station-level from supplied N inventory,match
+N,1210106,True,True,12,5,Orange,Laguna Hills,18.82,91.078,EL TORO 2,HOV,24H,station-level from supplied N inventory,match
+N,1204623,True,True,12,5,Orange,Laguna Hills,18.83,91.088,EL TORO 2,On Ramp,No,station-level from supplied N inventory,match
+N,1213509,True,True,12,5,Orange,Laguna Hills,19.33,91.588,RED ROBIN,Off Ramp,No,station-level from supplied N inventory,match
+N,1204638,True,True,12,5,Orange,Laguna Hills,19.33,91.588,RED ROBIN,Mainline,No,station-level from supplied N inventory,match
+N,1210115,True,True,12,5,Orange,Laguna Hills,19.33,91.588,RED ROBIN,HOV,24H,station-level from supplied N inventory,match
+N,1211118,True,True,12,5,Orange,Laguna Hills,20,92.258,LAKE FOR2,Coll-Dist,No,station-level from supplied N inventory,match
+N,1204678,True,True,12,5,Orange,Laguna Hills,20,92.258,LAKE FOR2,Off Ramp,No,station-level from supplied N inventory,match
+N,1204672,True,True,12,5,Orange,Laguna Hills,20,92.258,LAKE FOR2,Mainline,No,station-level from supplied N inventory,match
+N,1204667,True,True,12,5,Orange,Laguna Hills,20,92.258,LAKE FOR2,On Ramp,No,station-level from supplied N inventory,match
+N,1211117,True,True,12,5,Orange,Laguna Hills,20,92.258,LAKE FOR2,HOV,24H,station-level from supplied N inventory,match
+N,1210271,True,True,12,5,Orange,Irvine,20.23,92.488,OLDFIELD CD,Coll-Dist,No,station-level from supplied N inventory,match
+N,1210270,True,True,12,5,Orange,Irvine,20.23,92.488,OLDFIELD,HOV,24H,station-level from supplied N inventory,match
+N,1204682,True,True,12,5,Orange,Irvine,20.24,92.498,OLDFIELD,Mainline,No,station-level from supplied N inventory,match
+N,1211135,True,True,12,5,Orange,Irvine,20.59,92.848,BAKE 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1211133,True,True,12,5,Orange,Irvine,20.59,92.848,BAKE 1,HOV,24H,station-level from supplied N inventory,match
+N,1211134,True,True,12,5,Orange,Irvine,20.59,92.848,BAKE 1,On Ramp,No,station-level from supplied N inventory,match
+N,1204697,True,True,12,5,Orange,Irvine,20.59,92.848,BAKE 1,Mainline,No,station-level from supplied N inventory,match
+N,1211136,True,True,12,5,Orange,Irvine,20.59,92.848,BAKE 1,Coll-Dist,No,station-level from supplied N inventory,match
+N,1218492,True,True,12,5,Orange,Irvine,20.94,93.198,BAKE 2,HOV,24H,station-level from supplied N inventory,match
+N,1204699,True,True,12,5,Orange,Irvine,20.94,93.198,BAKE 2,Mainline,No,station-level from supplied N inventory,match
+N,1211147,True,True,12,5,Orange,Irvine,20.94,93.198,BAKE 2,On Ramp,No,station-level from supplied N inventory,match
+N,1211148,True,True,12,5,Orange,Irvine,20.94,93.198,5 NB TRUCK BYPASS,Off Ramp,No,station-level from supplied N inventory,match
+N,1211146,True,True,12,5,Orange,Irvine,20.94,93.198,5 NB TO 405 NB,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1204703,True,True,12,5,Orange,Irvine,21.25,93.508,At 405,Mainline,No,station-level from supplied N inventory,match
+N,1211857,True,True,12,5,Orange,Irvine,21.25,93.508,CD to N5,Off Ramp,No,station-level from supplied N inventory,match
+N,1211856,True,True,12,5,Orange,Irvine,21.25,93.508,At 405,HOV,24H,station-level from supplied N inventory,match
+N,1204731,True,True,12,5,Orange,Irvine,22.1,94.358,ALTON 2,Mainline,No,station-level from supplied N inventory,match
+N,1204722,True,True,12,5,Orange,Irvine,22.1,94.358,ALTON 2,On Ramp,No,station-level from supplied N inventory,match
+N,1204727,True,True,12,5,Orange,Irvine,22.1,94.358,ALTON 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1204729,True,True,12,5,Orange,Irvine,22.1,94.358,ALTON 2,HOV,24H,station-level from supplied N inventory,match
+N,1204750,True,True,12,5,Orange,Irvine,22.2,94.458,ALTON 3,Mainline,No,station-level from supplied N inventory,match
+N,1204743,True,True,12,5,Orange,Irvine,22.2,94.458,ALTON 3,On Ramp,No,station-level from supplied N inventory,match
+N,1204748,True,True,12,5,Orange,Irvine,22.2,94.458,ALTON 3,HOV,24H,station-level from supplied N inventory,match
+N,1204757,True,True,12,5,Orange,Irvine,22.75,95.008,BARRANCA,HOV,24H,station-level from supplied N inventory,match
+N,1204772,True,True,12,5,Orange,Irvine,22.75,95.008,BAR.HOV ON,On Ramp,No,station-level from supplied N inventory,match
+N,1204766,True,True,12,5,Orange,Irvine,22.75,95.008,BARRANCA,Mainline,No,station-level from supplied N inventory,match
+N,1204779,True,True,12,5,Orange,Irvine,23.05,95.308,S OF 133,HOV,24H,station-level from supplied N inventory,match
+N,1212730,True,True,12,5,Orange,Irvine,23.05,95.308,S OF 133,HOV,24H,station-level from supplied N inventory,match
+N,1204787,True,True,12,5,Orange,Irvine,23.05,95.308,S OF 133,Mainline,No,station-level from supplied N inventory,match
+N,1204808,True,True,12,5,Orange,Irvine,23.2,95.458,N OF 133,Mainline,No,station-level from supplied N inventory,match
+N,1204806,True,True,12,5,Orange,Irvine,23.2,95.458,N OF 133,HOV,24H,station-level from supplied N inventory,match
+N,1204803,True,True,12,5,Orange,Irvine,23.2,95.458,N133 to N5,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1204823,True,True,12,5,Orange,Irvine,R23.5,95.758,S OF SAND CNYN,HOV,24H,station-level from supplied N inventory,match
+N,1204825,True,True,12,5,Orange,Irvine,R23.5,95.758,S OF SAND CNYN,Mainline,No,station-level from supplied N inventory,match
+N,1220013,True,True,12,5,Orange,,R23.69,95.948,SAND CANYON 1,HOV,24H,station-level from supplied N inventory,match
+N,1220011,True,True,12,5,Orange,,R23.69,95.948,SAND CANYON 1,Mainline,No,station-level from supplied N inventory,match
+N,1204861,True,True,12,5,Orange,,R24.05,96.308,SAND CANYON 2,Mainline,No,station-level from supplied N inventory,match
+N,1204848,True,True,12,5,Orange,,R24.05,96.308,SAND CANYON 2,On Ramp,No,station-level from supplied N inventory,match
+N,1204859,True,True,12,5,Orange,,R24.05,96.308,SAND CANYON 2,HOV,24H,station-level from supplied N inventory,match
+N,1204854,True,True,12,5,Orange,,R24.05,96.308,SAND CANYON 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1204878,True,True,12,5,Orange,,R24.5,96.758,N OF SAND CNYN,Mainline,No,station-level from supplied N inventory,match
+N,1204876,True,True,12,5,Orange,,R24.5,96.758,N OF SAND CNYN,HOV,24H,station-level from supplied N inventory,match
+N,1204924,True,True,12,5,Orange,Irvine,R25.08,97.338,JEFFREY 1,Mainline,No,station-level from supplied N inventory,match
+N,1204922,True,True,12,5,Orange,Irvine,R25.08,97.338,JEFFREY 1,HOV,24H,station-level from supplied N inventory,match
+N,1204913,True,True,12,5,Orange,Irvine,R25.08,97.338,JEFFREY 1,On Ramp,No,station-level from supplied N inventory,match
+N,1204919,True,True,12,5,Orange,Irvine,R25.08,97.338,JEFFREY 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1204935,True,True,12,5,Orange,Irvine,R25.15,97.408,JEFFREY 2,HOV,24H,station-level from supplied N inventory,match
+N,1204929,True,True,12,5,Orange,Irvine,R25.15,97.408,JEFFREY 2,On Ramp,No,station-level from supplied N inventory,match
+N,1204937,True,True,12,5,Orange,Irvine,R25.15,97.408,JEFFREY 2,Mainline,No,station-level from supplied N inventory,match
+N,1204950,True,True,12,5,Orange,Irvine,R25.8,98.058,YALE,Mainline,No,station-level from supplied N inventory,match
+N,1204956,True,True,12,5,Orange,Irvine,R25.8,98.058,YALE,HOV,24H,station-level from supplied N inventory,match
+N,1213602,True,True,12,5,Orange,Irvine,R26.56,98.818,CULVER 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1204974,True,True,12,5,Orange,Irvine,R26.56,98.818,CULVER 1,On Ramp,No,station-level from supplied N inventory,match
+N,1204980,True,True,12,5,Orange,Irvine,R26.56,98.818,CULVER 1,HOV,24H,station-level from supplied N inventory,match
+N,1204982,True,True,12,5,Orange,Irvine,R26.56,98.818,CULVER 1,Mainline,No,station-level from supplied N inventory,match
+N,1205012,True,True,12,5,Orange,Irvine,R26.81,99.068,CULVER 2,Mainline,No,station-level from supplied N inventory,match
+N,1205010,True,True,12,5,Orange,Irvine,R26.81,99.068,CULVER 2,HOV,24H,station-level from supplied N inventory,match
+N,1205004,True,True,12,5,Orange,Irvine,R26.81,99.068,CULVER 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205035,True,True,12,5,Orange,Irvine,27.55,99.801,JAMBOREE 1,On Ramp,No,station-level from supplied N inventory,match
+N,1205041,True,True,12,5,Orange,Irvine,27.55,99.801,JAMBOREE 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1205043,True,True,12,5,Orange,Irvine,27.55,99.801,JAMBOREE 1,HOV,24H,station-level from supplied N inventory,match
+N,1205045,True,True,12,5,Orange,Irvine,27.55,99.801,JAMBOREE 1,Mainline,No,station-level from supplied N inventory,match
+N,1205069,True,True,12,5,Orange,Irvine,27.56,99.811,JAMBOREE 2,HOV,24H,station-level from supplied N inventory,match
+N,1205071,True,True,12,5,Orange,Irvine,27.56,99.811,JAMBOREE 2,Mainline,No,station-level from supplied N inventory,match
+N,1210814,True,True,12,5,Orange,Irvine,27.7,99.951,JAMBOREE 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205088,True,True,12,5,Orange,Tustin,28.1,100.351,TUSTIN RANCH,Mainline,No,station-level from supplied N inventory,match
+N,1205086,True,True,12,5,Orange,Tustin,28.1,100.351,TUSTIN RANCH,HOV,24H,station-level from supplied N inventory,match
+N,1205084,True,True,12,5,Orange,Tustin,28.1,100.351,TUSTIN RANCH,Off Ramp,No,station-level from supplied N inventory,match
+N,1205078,True,True,12,5,Orange,Tustin,28.1,100.351,TUSTIN RANCH,On Ramp,No,station-level from supplied N inventory,match
+N,1208538,True,True,12,5,Orange,Tustin,28.98,101.231,RED HILL,Off Ramp,No,station-level from supplied N inventory,match
+N,1205129,True,True,12,5,Orange,,29.24,101.491,RED HILL,On Ramp,No,station-level from supplied N inventory,match
+N,1208537,True,True,12,5,Orange,,29.24,101.491,RED HILL,HOV,24H,station-level from supplied N inventory,match
+N,1205135,True,True,12,5,Orange,,29.24,101.491,RED HILL,Mainline,No,station-level from supplied N inventory,match
+N,1205152,True,True,12,5,Orange,Tustin,29.79,102.041,NEWPORT*,Mainline,No,station-level from supplied N inventory,match
+N,1205147,True,True,12,5,Orange,Tustin,29.79,102.041,NEWPORT*,On Ramp,No,station-level from supplied N inventory,match
+N,1208365,True,True,12,5,Orange,Tustin,29.79,102.041,NEWPORT*,HOV,24H,station-level from supplied N inventory,match
+N,1205157,True,True,12,5,Orange,Tustin,30,102.251,B ST.,Mainline,No,station-level from supplied N inventory,match
+N,1208975,True,True,12,5,Orange,Tustin,30,102.251,B ST,HOV,24H,station-level from supplied N inventory,match
+N,1205165,True,True,12,5,Orange,Tustin,30.2,102.451,S OF 55,Mainline,No,station-level from supplied N inventory,match
+N,1208989,True,True,12,5,Orange,Tustin,30.2,102.451,S OF 55,HOV,24H,station-level from supplied N inventory,match
+N,1208990,True,True,12,5,Orange,Tustin,30.2,102.451,N5 to N 55,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1205168,True,True,12,5,Orange,Tustin,30.4,102.651,N OF 55,Mainline,No,station-level from supplied N inventory,match
+N,1209011,True,True,12,5,Orange,Tustin,30.4,102.651,N OF 55,HOV,24H,station-level from supplied N inventory,match
+N,1209013,True,True,12,5,Orange,Tustin,30.4,102.651,N5 to S55,Off Ramp,No,station-level from supplied N inventory,match
+N,1209012,True,True,12,5,Orange,Tustin,30.44,102.691,N55 to N5,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1205171,True,True,12,5,Orange,Tustin,30.6,102.851,WILLIAMS,HOV,24H,station-level from supplied N inventory,match
+N,1205175,True,True,12,5,Orange,Santa Ana,30.8,103.051,1ST,Mainline,No,station-level from supplied N inventory,match
+N,1209697,True,True,12,5,Orange,Santa Ana,30.9,103.151,1ST,Off Ramp,No,station-level from supplied N inventory,match
+N,1209693,True,True,12,5,Orange,Santa Ana,30.9,103.151,1ST,HOV,24H,station-level from supplied N inventory,match
+N,1209841,True,True,12,5,Orange,Santa Ana,31,103.251,N55 to N5 HOV VIA,HOV,24H,station-level from supplied N inventory,match
+N,1209726,True,True,12,5,Orange,Santa Ana,31.23,103.481,4TH,On Ramp,No,station-level from supplied N inventory,match
+N,1205193,True,True,12,5,Orange,Santa Ana,31.23,103.481,4TH,Mainline,No,station-level from supplied N inventory,match
+N,1212741,True,True,12,5,Orange,Santa Ana,31.23,103.481,55N HOV TO 5N HOV,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1209727,True,True,12,5,Orange,Santa Ana,31.23,103.481,4TH,HOV,24H,station-level from supplied N inventory,match
+N,1205204,True,True,12,5,Orange,Santa Ana,31.4,103.651,CONCORD,Mainline,No,station-level from supplied N inventory,match
+N,1209746,True,True,12,5,Orange,Santa Ana,31.4,103.651,CONCORD,HOV,24H,station-level from supplied N inventory,match
+N,1205215,True,True,12,5,Orange,Santa Ana,31.6,103.851,GRAND 1,Mainline,No,station-level from supplied N inventory,match
+N,1212047,True,True,12,5,Orange,Santa Ana,31.6,103.851,GRAND 1,HOV,24H,station-level from supplied N inventory,match
+N,1212781,True,True,12,5,Orange,Santa Ana,31.602,103.853,GRAND 1 HOV OFF,Off Ramp,No,station-level from supplied N inventory,match
+N,1205225,True,True,12,5,Orange,Santa Ana,31.73,103.981,GRAND 2,Mainline,No,station-level from supplied N inventory,match
+N,1209763,True,True,12,5,Orange,Santa Ana,31.9,104.151,GRAND 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1209764,True,True,12,5,Orange,Santa Ana,31.9,104.151,GRAND 2,HOV,24H,station-level from supplied N inventory,match
+N,1205220,True,True,12,5,Orange,Santa Ana,31.9,104.151,GRAND 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205255,True,True,12,5,Orange,Santa Ana,32.5,104.751,17TH 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205260,True,True,12,5,Orange,Santa Ana,32.5,104.751,17TH 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1209931,True,True,12,5,Orange,Santa Ana,32.5,104.751,17TH 2,HOV,24H,station-level from supplied N inventory,match
+N,1205262,True,True,12,5,Orange,Santa Ana,32.5,104.751,17TH 2,Mainline,No,station-level from supplied N inventory,match
+N,1209943,True,True,12,5,Orange,Santa Ana,32.6,104.851,17TH 3,On Ramp,No,station-level from supplied N inventory,match
+N,1205269,True,True,12,5,Orange,Santa Ana,32.6,104.851,17TH 3,Mainline,No,station-level from supplied N inventory,match
+N,1209951,True,True,12,5,Orange,Santa Ana,33,105.251,MAIN 1,HOV,24H,station-level from supplied N inventory,match
+N,1205290,True,True,12,5,Orange,Santa Ana,33.2,105.451,MAIN 2,Mainline,No,station-level from supplied N inventory,match
+N,1209965,True,True,12,5,Orange,Santa Ana,33.2,105.451,2,HOV,24H,station-level from supplied N inventory,match
+N,1209959,True,True,12,5,Orange,Santa Ana,33.2,105.451,MAIN 2 OFF TO M&B,Off Ramp,No,station-level from supplied N inventory,match
+N,1205281,True,True,12,5,Orange,Santa Ana,33.2,105.451,MAIN 2,On Ramp,No,station-level from supplied N inventory,match
+N,1209964,True,True,12,5,Orange,Santa Ana,33.22,105.471,"MAIN 2 (1=B,2=M) OFF",Off Ramp,No,station-level from supplied N inventory,match
+N,1210004,True,True,12,5,Orange,Santa Ana,33.3,105.551,BROADWAY,HOV,24H,station-level from supplied N inventory,match
+N,1210011,True,True,12,5,Orange,Santa Ana,33.6,105.851,SANTIAGO,HOV,24H,station-level from supplied N inventory,match
+N,1205303,True,True,12,5,Orange,Santa Ana,33.8,106.051,S OF 22,Mainline,No,station-level from supplied N inventory,match
+N,1210020,True,True,12,5,Orange,Santa Ana,33.8,106.051,N5 TO W22,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1205315,True,True,12,5,Orange,Orange,34.2,106.451,N5 TO N57,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1205320,True,True,12,5,Orange,Orange,34.2,106.451,LA VETA,Mainline,No,station-level from supplied N inventory,match
+N,1210034,True,True,12,5,Orange,Orange,34.2,106.451,LA VETA,HOV,24H,station-level from supplied N inventory,match
+N,1205330,True,True,12,5,Orange,Orange,34.3,106.551,N OF 57,Mainline,No,station-level from supplied N inventory,match
+N,1212015,True,True,12,5,Orange,Santa Ana,34.4,106.651,E22 TO N5,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1212013,True,True,12,5,Orange,Santa Ana,34.4,106.651,N OF 57*,HOV,24H,station-level from supplied N inventory,match
+N,1212143,True,True,12,5,Orange,Santa Ana,34.6,106.851,CHAPMAN 1,Off Ramp,No,station-level from supplied N inventory,match
+N,1212142,True,True,12,5,Orange,Santa Ana,34.6,106.851,CHAPMAN 1,HOV,24H,station-level from supplied N inventory,match
+N,1205369,True,True,12,5,Orange,Orange,35,107.251,CHAPMAN 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205373,True,True,12,5,Orange,Orange,35,107.251,CHAPMAN 2,HOV,24H,station-level from supplied N inventory,match
+N,1205375,True,True,12,5,Orange,Orange,35,107.251,CHAPMAN 2,Mainline,No,station-level from supplied N inventory,match
+N,1212268,True,True,12,5,Orange,Orange,35.1,107.351,STATE COLLEGE,HOV,24H,station-level from supplied N inventory,match
+N,1212622,True,True,12,5,Orange,Orange,35.1,107.351,STATE COLLEGE,Off Ramp,No,station-level from supplied N inventory,match
+N,1212038,True,True,12,5,Orange,Orange,35.1,107.351,STATE COLLEGE,On Ramp,No,station-level from supplied N inventory,match
+N,1205341,True,True,12,5,Orange,Orange,35.1,107.351,STATE COLLEGE,Mainline,No,station-level from supplied N inventory,match
+N,1213943,True,True,12,5,Orange,Orange,35.4,107.651,ORANGEWOOD 1,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1205380,True,True,12,5,Orange,Orange,35.6,107.851,GENE AUTRY,Mainline,No,station-level from supplied N inventory,match
+N,1213944,True,True,12,5,Orange,Orange,35.6,107.851,GENE AUTRY,Off Ramp,No,station-level from supplied N inventory,match
+N,1212247,True,True,12,5,Orange,Orange,35.6,107.851,GENE AUTRY,HOV,24H,station-level from supplied N inventory,match
+N,1212252,True,True,12,5,Orange,Orange,35.6,107.851,HOV DISNEY WAY OFF,Off Ramp,No,station-level from supplied N inventory,match
+N,1212250,True,True,12,5,Orange,Orange,35.63,107.881,HOV GENE AUTRY OFF,Off Ramp,No,station-level from supplied N inventory,match
+N,1212261,True,True,12,5,Orange,Orange,36.4,108.651,KATELLA OFF,Off Ramp,No,station-level from supplied N inventory,match
+N,1212263,True,True,12,5,Orange,Orange,36.4,108.651,HOV DISNEY WAY OFF,Off Ramp,No,station-level from supplied N inventory,match
+N,1212264,True,True,12,5,Orange,Orange,36.4,108.651,HOV GENE AUTRY ON 1,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1212001,True,True,12,5,Orange,Orange,36.4,108.651,ORANGEWOOD 2,Mainline,No,station-level from supplied N inventory,match
+N,1212150,True,True,12,5,Orange,Orange,36.4,108.651,ORANGEWOOD 2,HOV,24H,station-level from supplied N inventory,match
+N,1212045,True,True,12,5,Orange,Orange,36.4,108.651,ORANGEWOOD 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205400,True,True,12,5,Orange,Anaheim,36.48,108.731,KATELLA,On Ramp,No,station-level from supplied N inventory,match
+N,1205409,True,True,12,5,Orange,Anaheim,36.48,108.731,KATELLA,Mainline,No,station-level from supplied N inventory,match
+N,1205406,True,True,12,5,Orange,Anaheim,36.48,108.731,KATELLA,HOV,24H,station-level from supplied N inventory,match
+N,1212665,True,True,12,5,Orange,Anaheim,36.481,108.732,HOV GENE AUTRY ON 2,On Ramp,No,station-level from supplied N inventory,match
+N,1212664,True,True,12,5,Orange,Anaheim,36.481,108.732,HOV DISNEY WAY OFF,Off Ramp,No,station-level from supplied N inventory,match
+N,1212117,True,True,12,5,Orange,Anaheim,36.6,108.851,ANAHEIM 2,On Ramp,No,station-level from supplied N inventory,match
+N,1212224,True,True,12,5,Orange,Anaheim,36.6,108.851,ANAHEIM 2,HOV,24H,station-level from supplied N inventory,match
+N,1212115,True,True,12,5,Orange,Anaheim,36.6,108.851,ANAHEIM 2,Mainline,No,station-level from supplied N inventory,match
+N,1212216,True,True,12,5,Orange,Anaheim,37,109.251,S OF HARBOR,Mainline,No,station-level from supplied N inventory,match
+N,1212217,True,True,12,5,Orange,Anaheim,37,109.251,S OF HARBOR,HOV,24H,station-level from supplied N inventory,match
+N,1212179,True,True,12,5,Orange,Anaheim,37.38,109.631,HARBOR,HOV,24H,station-level from supplied N inventory,match
+N,1205430,True,True,12,5,Orange,Anaheim,37.38,109.631,HARBOR,Off Ramp,No,station-level from supplied N inventory,match
+N,1205432,True,True,12,5,Orange,Anaheim,37.38,109.631,HARBOR,Mainline,No,station-level from supplied N inventory,match
+N,1205426,True,True,12,5,Orange,Anaheim,37.38,109.631,HARBOR,On Ramp,No,station-level from supplied N inventory,match
+N,1205452,True,True,12,5,Orange,Anaheim,37.7,109.951,BALL,Mainline,No,station-level from supplied N inventory,match
+N,1205446,True,True,12,5,Orange,Anaheim,37.7,109.951,BALL,On Ramp,No,station-level from supplied N inventory,match
+N,1212191,True,True,12,5,Orange,Anaheim,37.7,109.951,BALL,HOV,24H,station-level from supplied N inventory,match
+N,1212265,True,True,12,5,Orange,Anaheim,38,110.251,SOUTH 1,HOV,24H,station-level from supplied N inventory,match
+N,1205468,True,True,12,5,Orange,Anaheim,38.1,110.351,SOUTH 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205471,True,True,12,5,Orange,Anaheim,38.1,110.351,SOUTH 2,HOV,24H,station-level from supplied N inventory,match
+N,1205473,True,True,12,5,Orange,Anaheim,38.1,110.351,SOUTH 2,Mainline,No,station-level from supplied N inventory,match
+N,1212627,True,True,12,5,Orange,Anaheim,38.9,111.151,LINCOLN,HOV,24H,station-level from supplied N inventory,match
+N,1205493,True,True,12,5,Orange,Anaheim,38.9,111.151,LINCOLN,Mainline,No,station-level from supplied N inventory,match
+N,1205491,True,True,12,5,Orange,Anaheim,39.09,111.341,LINCOLN,Off Ramp,No,station-level from supplied N inventory,match
+N,1205487,True,True,12,5,Orange,Anaheim,39.09,111.341,LINCOLN,On Ramp,No,station-level from supplied N inventory,match
+N,1212649,True,True,12,5,Orange,Anaheim,39.3,111.551,EUCLID 1,Mainline,No,station-level from supplied N inventory,match
+N,1212648,True,True,12,5,Orange,Anaheim,39.3,111.551,EUCLID 1,HOV,24H,station-level from supplied N inventory,match
+N,1212689,True,True,12,5,Orange,Anaheim,39.6,111.851,EUCLID 2,HOV,24H,station-level from supplied N inventory,match
+N,1205517,True,True,12,5,Orange,Anaheim,39.6,111.851,EUCLID 2,Mainline,No,station-level from supplied N inventory,match
+N,1205513,True,True,12,5,Orange,Anaheim,39.6,111.851,EUCLID 2,On Ramp,No,station-level from supplied N inventory,match
+N,1212691,True,True,12,5,Orange,Anaheim,39.6,111.851,EUCLID 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1205528,True,True,12,5,Orange,Anaheim,40.04,112.291,CRESCENT,Mainline,No,station-level from supplied N inventory,match
+N,1212578,True,True,12,5,Orange,Anaheim,40.04,112.291,CRESCENT,HOV,24H,station-level from supplied N inventory,match
+N,1212595,True,True,12,5,Orange,Anaheim,40.5,112.751,BROOKHURST 1,HOV,24H,station-level from supplied N inventory,match
+N,1212588,True,True,12,5,Orange,Anaheim,40.5,112.751,BROOKHURST 1,Mainline,No,station-level from supplied N inventory,match
+N,1212566,True,True,12,5,Orange,Anaheim,40.7,112.951,BROOKHURST 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1212565,True,True,12,5,Orange,Anaheim,40.7,112.951,BROOKHURST 2,HOV,24H,station-level from supplied N inventory,match
+N,1205546,True,True,12,5,Orange,Anaheim,40.7,112.951,BROOKHURST 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205553,True,True,12,5,Orange,Anaheim,40.7,112.951,BROOKHURST 2,Mainline,No,station-level from supplied N inventory,match
+N,1205551,True,True,12,5,Orange,Anaheim,40.7,112.951,BROOKHURST 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1205558,True,True,12,5,Orange,Anaheim,40.98,113.231,LA PALMA,On Ramp,No,station-level from supplied N inventory,match
+N,1212609,True,True,12,5,Orange,Anaheim,40.98,113.231,LA PALMA,HOV,24H,station-level from supplied N inventory,match
+N,1205562,True,True,12,5,Orange,Anaheim,40.98,113.231,LA PALMA,Mainline,No,station-level from supplied N inventory,match
+N,1212672,True,True,12,5,Orange,Anaheim,41.34,113.591,GILBERT,HOV,24H,station-level from supplied N inventory,match
+N,1205567,True,True,12,5,Orange,Anaheim,41.34,113.591,GILBERT,Mainline,No,station-level from supplied N inventory,match
+N,1213419,True,True,12,5,Orange,Anaheim,41.8,114.051,5 NB to 91 WB,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1205590,True,True,12,5,Orange,Anaheim,41.8,114.051,MAGNOLIA,Mainline,No,station-level from supplied N inventory,match
+N,1213407,True,True,12,5,Orange,Anaheim,41.8,114.051,MAGNOLIA,Off Ramp,No,station-level from supplied N inventory,match
+N,1213418,True,True,12,5,Orange,Anaheim,41.8,114.051,MAGNOLIA,HOV,24H,station-level from supplied N inventory,match
+N,1214005,True,True,12,5,Orange,Anaheim,41.9,114.151,N OF MAGNOLIA,Mainline,No,station-level from supplied N inventory,match
+N,1214007,True,True,12,5,Orange,Anaheim,41.9,114.151,N OF MAGNOLIA,HOV,24H,station-level from supplied N inventory,match
+N,1214009,True,True,12,5,Orange,Anaheim,41.9,114.151,N OF MAGNOLIA,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1214010,True,True,12,5,Orange,Anaheim,41.92,114.171,N OF MAGNOLIA,Fwy-Fwy,No,station-level from supplied N inventory,match
+N,1216522,True,True,12,5,Orange,Fullerton,42.52,114.771,ORANGETHORPE 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1205601,True,True,12,5,Orange,Fullerton,42.52,114.771,ORANGETHORPE 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205607,True,True,12,5,Orange,Fullerton,42.52,114.771,ORANGETHORPE 2,Mainline,No,station-level from supplied N inventory,match
+N,1216517,True,True,12,5,Orange,Fullerton,42.52,114.771,ORANGETHORPE 2,HOV,24H,station-level from supplied N inventory,match
+N,1216505,True,True,12,5,Orange,Buena Park,42.7,114.951,N OF ORANGETHORPE,Mainline,No,station-level from supplied N inventory,match
+N,1216507,True,True,12,5,Orange,Buena Park,42.7,114.951,N OF ORANGETHORPE,HOV,24H,station-level from supplied N inventory,match
+N,1205623,True,True,12,5,Orange,Buena Park,43.01,115.261,STANTON,Mainline,No,station-level from supplied N inventory,match
+N,1216485,True,True,12,5,Orange,Buena Park,43.01,115.261,STANTON,HOV,24H,station-level from supplied N inventory,match
+N,1216489,True,True,12,5,Orange,Buena Park,43.01,115.261,STANTON,Off Ramp,No,station-level from supplied N inventory,match
+N,1205636,True,True,12,5,Orange,Buena Park,43.28,115.531,BEACH 1,Mainline,No,station-level from supplied N inventory,match
+N,1216409,True,True,12,5,Orange,Buena Park,43.3,115.551,BEACH 1,HOV,24H,station-level from supplied N inventory,match
+N,1205658,True,True,12,5,Orange,Buena Park,43.6,115.851,BEACH 2,Mainline,No,station-level from supplied N inventory,match
+N,1205651,True,True,12,5,Orange,Buena Park,43.6,115.851,BEACH 2,On Ramp,No,station-level from supplied N inventory,match
+N,1205656,True,True,12,5,Orange,Buena Park,43.6,115.851,BEACH 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1216582,True,True,12,5,Orange,Buena Park,43.6,115.851,BEACH 2,HOV,24H,station-level from supplied N inventory,match
+N,1216545,True,True,12,5,Orange,Buena Park,43.9,116.151,Western,HOV,24H,station-level from supplied N inventory,match
+N,1216538,True,True,12,5,Orange,Buena Park,43.9,116.151,Western,Mainline,No,station-level from supplied N inventory,match
+N,1205678,True,True,12,5,Orange,Buena Park,44.35,116.601,ARTESIA 2,Off Ramp,No,station-level from supplied N inventory,match
+N,1205673,True,True,12,5,Orange,Buena Park,44.35,116.601,ARTESIA,On Ramp,No,station-level from supplied N inventory,match
+N,1205680,True,True,12,5,Orange,Buena Park,44.35,116.601,ARTESIA 2,Mainline,No,station-level from supplied N inventory,match
+S,1204193,True,True,12,5,Orange,San Clemente,.64,72.835,S LUIS REY,Mainline,No,station-level from supplied S inventory,match
+S,1210843,True,True,12,5,Orange,San Clemente,.9,73.095,CALAFIA,Off Ramp,No,station-level from supplied S inventory,match
+S,1210842,True,True,12,5,Orange,San Clemente,.9,73.095,CALAFIA,On Ramp,No,station-level from supplied S inventory,match
+S,1210841,True,True,12,5,Orange,San Clemente,.9,73.095,CALAFIA,Mainline,No,station-level from supplied S inventory,match
+S,1204216,True,True,12,5,Orange,San Clemente,1.26,73.455,MAGDALENA,Mainline,No,station-level from supplied S inventory,match
+S,1210858,True,True,12,5,Orange,San Clemente,1.49,73.685,EL CAMINO REAL,Off Ramp,No,station-level from supplied S inventory,match
+S,1210857,True,True,12,5,Orange,San Clemente,1.49,73.685,EL CAMINO REAL,On Ramp,No,station-level from supplied S inventory,match
+S,1210856,True,True,12,5,Orange,San Clemente,1.49,73.685,EL CAMINO REAL,Mainline,No,station-level from supplied S inventory,match
+S,1210872,True,True,12,5,Orange,San Clemente,2.14,74.335,PRESIDIO,Mainline,No,station-level from supplied S inventory,match
+S,1210877,True,True,12,5,Orange,San Clemente,2.14,74.335,PRESIDIO,On Ramp,No,station-level from supplied S inventory,match
+S,1210909,True,True,12,5,Orange,San Clemente,2.8,74.995,PALIZADA,Mainline,No,station-level from supplied S inventory,match
+S,1210912,True,True,12,5,Orange,San Clemente,2.8,74.995,PALIZADA,Off Ramp,No,station-level from supplied S inventory,match
+S,1221577,True,True,12,5,Orange,San Clemente,3.23,75.425,PICO 1,HOV,24H,station-level from supplied S inventory,match
+S,1210882,True,True,12,5,Orange,San Clemente,3.23,75.425,PICO 1,Mainline,No,station-level from supplied S inventory,match
+S,1210883,True,True,12,5,Orange,San Clemente,3.23,75.425,PICO 1,On Ramp,No,station-level from supplied S inventory,match
+S,1204273,True,True,12,5,Orange,San Clemente,3.56,75.755,PICO 2,Mainline,No,station-level from supplied S inventory,match
+S,1221573,True,True,12,5,Orange,San Clemente,3.56,75.755,PICO 2,HOV,24H,station-level from supplied S inventory,match
+S,1213230,True,True,12,5,Orange,San Clemente,4.1,76.295,HERMOSA 2,On Ramp,No,station-level from supplied S inventory,match
+S,1221074,True,True,12,5,Orange,San Clemente,4.1,76.295,HERMOSA 2,HOV,24H,station-level from supplied S inventory,match
+S,1213231,True,True,12,5,Orange,San Clemente,4.1,76.295,HERMOSA 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1213229,True,True,12,5,Orange,San Clemente,4.1,76.295,HERMOSA 2,Mainline,No,station-level from supplied S inventory,match
+S,1221233,True,True,12,5,Orange,San Clemente,4.7,76.895,S OF VAQUERO,Mainline,No,station-level from supplied S inventory,match
+S,1221235,True,True,12,5,Orange,San Clemente,4.7,76.895,S OF VAQUERO,HOV,24H,station-level from supplied S inventory,match
+S,1221198,True,True,12,5,Orange,San Clemente,5.25,77.445,N OF VAQUERO,HOV,24H,station-level from supplied S inventory,match
+S,1204306,True,True,12,5,Orange,San Clemente,5.4,77.595,N OF VAQUERO,Mainline,No,station-level from supplied S inventory,match
+S,1210897,True,True,12,5,Orange,San Clemente,5.59,77.785,ESTRELLA,Off Ramp,No,station-level from supplied S inventory,match
+S,1210896,True,True,12,5,Orange,San Clemente,5.59,77.785,ESTRELLA,On Ramp,No,station-level from supplied S inventory,match
+S,1221049,True,True,12,5,Orange,San Clemente,5.59,77.785,ESTRELLA,HOV,24H,station-level from supplied S inventory,match
+S,1210895,True,True,12,5,Orange,San Clemente,5.59,77.785,ESTRELLA,Mainline,No,station-level from supplied S inventory,match
+S,1204345,True,True,12,5,Orange,Dana Point,6.47,78.665,SACRAMENTO,Mainline,No,station-level from supplied S inventory,match
+S,1204352,True,True,12,5,Orange,Dana Point,6.6,78.795,RTE 1 SB,On Ramp,No,station-level from supplied S inventory,match
+S,1204357,True,True,12,5,Orange,Dana Point,6.6,78.795,RTE 1 SB,Mainline,No,station-level from supplied S inventory,match
+S,1221567,True,True,12,5,Orange,Dana Point,6.6,78.795,RTE 1 SB,HOV,24H,station-level from supplied S inventory,match
+S,1221774,True,True,12,5,Orange,San Juan Capistrano,6.82,79.015,LAS RAMBLAS,HOV,24H,station-level from supplied S inventory,match
+S,1213544,True,True,12,5,Orange,San Juan Capistrano,6.82,79.015,LAS RAMBLAS,Off Ramp,No,station-level from supplied S inventory,match
+S,1213541,True,True,12,5,Orange,San Juan Capistrano,6.82,79.015,LAS RAMBLAS,On Ramp,No,station-level from supplied S inventory,match
+S,1211623,True,True,12,5,Orange,San Juan Capistrano,6.82,79.015,LAS RAMBLAS,Mainline,No,station-level from supplied S inventory,match
+S,1211075,True,True,12,5,Orange,San Juan Capistrano,7.46,79.655,CAPISTRANO,Mainline,No,station-level from supplied S inventory,match
+S,1204390,True,True,12,5,Orange,San Juan Capistrano,7.99,80.185,AEROPUERTO,Mainline,No,station-level from supplied S inventory,match
+S,1204401,True,True,12,5,Orange,San Juan Capistrano,8.6,80.795,S JUAN CREEK,Mainline,No,station-level from supplied S inventory,match
+S,1211936,True,True,12,5,Orange,San Juan Capistrano,8.6,80.795,S JUAN CREEK,On Ramp,No,station-level from supplied S inventory,match
+S,1211937,True,True,12,5,Orange,San Juan Capistrano,8.6,80.795,S JUAN CREEK,Off Ramp,No,station-level from supplied S inventory,match
+S,1210925,True,True,12,5,Orange,San Juan Capistrano,9.15,81.345,PLAZA,HOV,24H,station-level from supplied S inventory,match
+S,1210141,True,True,12,5,Orange,San Juan Capistrano,9.15,81.345,PLAZA,Mainline,No,station-level from supplied S inventory,match
+S,1220086,True,True,12,5,Orange,San Juan Capistrano,9.4,81.595,ORTEGA  1,HOV,24H,station-level from supplied S inventory,match
+S,1204415,True,True,12,5,Orange,San Juan Capistrano,9.4,81.595,ORTEGA 1,Mainline,No,station-level from supplied S inventory,match
+S,1210946,True,True,12,5,Orange,San Juan Capistrano,9.4,81.595,ORTEGA  1,On Ramp,No,station-level from supplied S inventory,match
+S,1210957,True,True,12,5,Orange,San Juan Capistrano,9.69,81.885,ORTEGA  2,Off Ramp,No,station-level from supplied S inventory,match
+S,1210972,True,True,12,5,Orange,San Juan Capistrano,10.1,82.295,EL HORNO,Mainline,No,station-level from supplied S inventory,match
+S,1210973,True,True,12,5,Orange,San Juan Capistrano,10.1,82.295,EL HORNO,HOV,24H,station-level from supplied S inventory,match
+S,1210994,True,True,12,5,Orange,San Juan Capistrano,10.4,82.595,SERRA PARK,HOV,24H,station-level from supplied S inventory,match
+S,1210993,True,True,12,5,Orange,San Juan Capistrano,10.4,82.595,SERRA PARK,Mainline,No,station-level from supplied S inventory,match
+S,1211846,True,True,12,5,Orange,San Juan Capistrano,10.7,82.895,JUNIPERO SERRA,HOV,24H,station-level from supplied S inventory,match
+S,1211844,True,True,12,5,Orange,San Juan Capistrano,10.7,82.895,JUNIPERO SERRA,On Ramp,No,station-level from supplied S inventory,match
+S,1204428,True,True,12,5,Orange,San Juan Capistrano,10.7,82.895,JUNIPERO SERRA,Mainline,No,station-level from supplied S inventory,match
+S,1222012,True,True,12,5,Orange,San Juan Capistrano,11,83.195,MVDS Crown Valley 1,Mainline,No,station-level from supplied S inventory,match
+S,1210379,True,True,12,5,Orange,San Juan Capistrano,11.05,83.245,JUNIPERO SERRA,Off Ramp,No,station-level from supplied S inventory,match
+S,1204442,True,True,12,5,Orange,San Juan Capistrano,11.37,83.565,TRABUCO,Mainline,No,station-level from supplied S inventory,match
+S,1211087,True,True,12,5,Orange,San Juan Capistrano,11.37,83.565,TRABUCO,HOV,24H,station-level from supplied S inventory,match
+S,1204458,True,True,12,5,Orange,San Juan Capistrano,11.91,84.105,WILDWOOD,Mainline,No,station-level from supplied S inventory,match
+S,1211096,True,True,12,5,Orange,San Juan Capistrano,11.91,84.105,WILDWOOD,HOV,24H,station-level from supplied S inventory,match
+S,1211830,True,True,12,5,Orange,San Juan Capistrano,12.4,84.595,S of 73,HOV,24H,station-level from supplied S inventory,match
+S,1211829,True,True,12,5,Orange,San Juan Capistrano,12.4,84.595,S of 73,Mainline,No,station-level from supplied S inventory,match
+S,1211831,True,True,12,5,Orange,San Juan Capistrano,12.4,84.595,S 73 to S5,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1222000,True,True,12,5,Orange,San Juan Capistrano,12.549,84.744,MVDS at Avery 1,Mainline,No,station-level from supplied S inventory,match
+S,1222032,True,True,12,5,Orange,San Juan Capistrano,12.549,84.744,MVDS S-O Avery,HOV,24H,station-level from supplied S inventory,match
+S,1211818,True,True,12,5,Orange,Mission Viejo,12.8,84.995,AVERY 1,HOV,24H,station-level from supplied S inventory,match
+S,1211817,True,True,12,5,Orange,Mission Viejo,12.8,84.995,AVERY 1,On Ramp,No,station-level from supplied S inventory,match
+S,1211816,True,True,12,5,Orange,Mission Viejo,12.8,84.995,AVERY 1,Mainline,No,station-level from supplied S inventory,match
+S,1221994,True,True,12,5,Orange,Mission Viejo,13.049,85.244,MVDS at Avery 2,Mainline,No,station-level from supplied S inventory,match
+S,1210377,True,True,12,5,Orange,Mission Viejo,13.05,85.245,AVERY PARK,Off Ramp,No,station-level from supplied S inventory,match
+S,1211800,True,True,12,5,Orange,Mission Viejo,13.6,85.795,CROWN VA1,On Ramp,No,station-level from supplied S inventory,match
+S,1204478,True,True,12,5,Orange,Mission Viejo,13.6,85.795,CROWN VA1,Mainline,No,station-level from supplied S inventory,match
+S,1211801,True,True,12,5,Orange,Mission Viejo,13.6,85.795,CROWN VA1,HOV,24H,station-level from supplied S inventory,match
+S,1222038,True,True,12,5,Orange,Mission Viejo,13.7,85.895,MVDS S-O Crown Va,HOV,24H,station-level from supplied S inventory,match
+S,1210079,True,True,12,5,Orange,Mission Viejo,13.87,86.065,CROWN VA2,Off Ramp,No,station-level from supplied S inventory,match
+S,1222030,True,True,12,5,Orange,Mission Viejo,13.88,86.075,MVDS Crown Valley 2,Mainline,No,station-level from supplied S inventory,match
+S,1213569,True,True,12,5,Orange,Mission Viejo,14.46,86.655,Faircourt,HOV,24H,station-level from supplied S inventory,match
+S,1213571,True,True,12,5,Orange,Mission Viejo,14.46,86.655,Faircourt,Mainline,No,station-level from supplied S inventory,match
+S,1204507,True,True,12,5,Orange,Mission Viejo,15.03,87.225,OSO PARK1,Mainline,No,station-level from supplied S inventory,match
+S,1211852,True,True,12,5,Orange,Mission Viejo,15.03,87.225,OSO PARK1,HOV,24H,station-level from supplied S inventory,match
+S,1211847,True,True,12,5,Orange,Mission Viejo,15.03,87.225,OSO PARK1,On Ramp,No,station-level from supplied S inventory,match
+S,1221788,True,True,12,5,Orange,Mission Viejo,15.068,87.263,OSO 1,HOV,24H,station-level from supplied S inventory,match
+S,1221786,True,True,12,5,Orange,Mission Viejo,15.068,87.263,OSO 1,Mainline,No,station-level from supplied S inventory,match
+S,1211851,True,True,12,5,Orange,Mission Viejo,15.3,87.495,OSO PARK2,HOV,24H,station-level from supplied S inventory,match
+S,1211849,True,True,12,5,Orange,Mission Viejo,15.3,87.495,OSO PARK2,On Ramp,No,station-level from supplied S inventory,match
+S,1204521,True,True,12,5,Orange,Mission Viejo,15.3,87.495,OSO PARK2,Mainline,No,station-level from supplied S inventory,match
+S,1211850,True,True,12,5,Orange,Mission Viejo,15.3,87.495,OSO PARK2,Off Ramp,No,station-level from supplied S inventory,match
+S,1221795,True,True,12,5,Orange,Mission Viejo,15.323,87.518,OSO 2,Mainline,No,station-level from supplied S inventory,match
+S,1221796,True,True,12,5,Orange,Mission Viejo,15.323,87.518,OSO 2,HOV,24H,station-level from supplied S inventory,match
+S,1213699,True,True,12,5,Orange,Mission Viejo,15.8,87.995,CERVANTES,Mainline,No,station-level from supplied S inventory,match
+S,1213706,True,True,12,5,Orange,Mission Viejo,15.8,87.995,CERVANTES,HOV,24H,station-level from supplied S inventory,match
+S,1221852,True,True,12,5,Orange,Mission Viejo,15.88,88.075,AT SB OSO OFFRAMP,HOV,24H,station-level from supplied S inventory,match
+S,1221851,True,True,12,5,Orange,Mission Viejo,15.88,88.075,AT SB OSO OFFRAMP,Mainline,No,station-level from supplied S inventory,match
+S,1204538,True,True,12,5,Orange,Mission Viejo,16.3,88.495,LA PAZ 1,Mainline,No,station-level from supplied S inventory,match
+S,1211182,True,True,12,5,Orange,Mission Viejo,16.3,88.495,LA PAZ 1,HOV,24H,station-level from supplied S inventory,match
+S,1211848,True,True,12,5,Orange,Mission Viejo,16.3,88.495,LA PAZ 1,On Ramp,No,station-level from supplied S inventory,match
+S,1221820,True,True,12,5,Orange,Laguna Hills,16.43,88.625,LA PAZ 1,HOV,24H,station-level from supplied S inventory,match
+S,1221819,True,True,12,5,Orange,Laguna Hills,16.43,88.625,LA PAZ 1,Mainline,No,station-level from supplied S inventory,match
+S,1211180,True,True,12,5,Orange,Laguna Hills,16.5,88.695,LA PAZ 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1211178,True,True,12,5,Orange,Laguna Hills,16.5,88.695,LA PAZ 2,On Ramp,No,station-level from supplied S inventory,match
+S,1211177,True,True,12,5,Orange,Laguna Hills,16.5,88.695,LA PAZ 2,HOV,24H,station-level from supplied S inventory,match
+S,1204552,True,True,12,5,Orange,Laguna Hills,16.5,88.695,LA PAZ 2,Mainline,No,station-level from supplied S inventory,match
+S,1221827,True,True,12,5,Orange,Laguna Hills,16.588,88.783,LA PAZ 2,Mainline,No,station-level from supplied S inventory,match
+S,1221828,True,True,12,5,Orange,Laguna Hills,16.588,88.783,LA PAZ 2,HOV,24H,station-level from supplied S inventory,match
+S,1210368,True,True,12,5,Orange,Laguna Hills,17.26,89.455,ALICIA 1,HOV,24H,station-level from supplied S inventory,match
+S,1210367,True,True,12,5,Orange,Laguna Hills,17.26,89.455,ALICIA 1,On Ramp,No,station-level from supplied S inventory,match
+S,1204565,True,True,12,5,Orange,Laguna Hills,17.26,89.455,ALICIA 1,Mainline,No,station-level from supplied S inventory,match
+S,1211183,True,True,12,5,Orange,Laguna Hills,17.49,89.685,ALICIA 2,HOV,24H,station-level from supplied S inventory,match
+S,1211804,True,True,12,5,Orange,Laguna Hills,17.49,89.685,ALICIA 2,On Ramp,No,station-level from supplied S inventory,match
+S,1211805,True,True,12,5,Orange,Laguna Hills,17.49,89.685,ALICIA 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1204577,True,True,12,5,Orange,Laguna Hills,17.49,89.685,ALICIA 2,Mainline,No,station-level from supplied S inventory,match
+S,1213528,True,True,12,5,Orange,Laguna Hills,18.17,90.365,ANKERTON,Mainline,No,station-level from supplied S inventory,match
+S,1213526,True,True,12,5,Orange,Laguna Hills,18.17,90.365,ANKERTON,HOV,24H,station-level from supplied S inventory,match
+S,1210339,True,True,12,5,Orange,Laguna Hills,18.5,90.695,EL TORO 1,On Ramp,No,station-level from supplied S inventory,match
+S,1204607,True,True,12,5,Orange,Laguna Hills,18.5,90.695,EL TORO 1,Mainline,No,station-level from supplied S inventory,match
+S,1210340,True,True,12,5,Orange,Laguna Hills,18.5,90.695,EL TORO 1,HOV,24H,station-level from supplied S inventory,match
+S,1204621,True,True,12,5,Orange,Laguna Hills,18.7,90.895,EL TORO 2,Mainline,No,station-level from supplied S inventory,match
+S,1210320,True,True,12,5,Orange,Laguna Hills,18.7,90.895,EL TORO 2,On Ramp,No,station-level from supplied S inventory,match
+S,1210322,True,True,12,5,Orange,Laguna Hills,18.7,90.895,EL TORO 2,HOV,24H,station-level from supplied S inventory,match
+S,1210321,True,True,12,5,Orange,Laguna Hills,18.7,90.895,EL TORO 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1210121,True,True,12,5,Orange,Laguna Hills,19.33,91.525,RED ROBIN,HOV,24H,station-level from supplied S inventory,match
+S,1204643,True,True,12,5,Orange,Laguna Hills,19.33,91.525,RED ROBIN,Mainline,No,station-level from supplied S inventory,match
+S,1210304,True,True,12,5,Orange,Laguna Hills,19.8,91.995,LAKE FOR1,On Ramp,No,station-level from supplied S inventory,match
+S,1210305,True,True,12,5,Orange,Laguna Hills,19.8,91.995,LAKE FOR1,HOV,24H,station-level from supplied S inventory,match
+S,1204650,True,True,12,5,Orange,Laguna Hills,19.8,91.995,LAKE FOR1,Mainline,No,station-level from supplied S inventory,match
+S,1204665,True,True,12,5,Orange,Laguna Hills,19.9,92.095,LAKE FOR2,Mainline,No,station-level from supplied S inventory,match
+S,1210323,True,True,12,5,Orange,Laguna Hills,19.9,92.095,LAKE FOR2,On Ramp,No,station-level from supplied S inventory,match
+S,1210326,True,True,12,5,Orange,Laguna Hills,19.9,92.095,LAKE FOR2,HOV,24H,station-level from supplied S inventory,match
+S,1210324,True,True,12,5,Orange,Laguna Hills,19.9,92.095,LAKE FOR2,Off Ramp,No,station-level from supplied S inventory,match
+S,1210272,True,True,12,5,Orange,Irvine,20.23,92.425,OLDFIELD,HOV,24H,station-level from supplied S inventory,match
+S,1204688,True,True,12,5,Orange,Irvine,20.24,92.435,OLDFIELD,Mainline,No,station-level from supplied S inventory,match
+S,1204695,True,True,12,5,Orange,Irvine,20.59,92.785,BAKE 1,Mainline,No,station-level from supplied S inventory,match
+S,1210254,True,True,12,5,Orange,Irvine,20.59,92.785,BAKE 1,On Ramp,No,station-level from supplied S inventory,match
+S,1210255,True,True,12,5,Orange,Irvine,20.59,92.785,BAKE 1,HOV,24H,station-level from supplied S inventory,match
+S,1210256,True,True,12,5,Orange,Irvine,20.59,92.785,BAKE 1,Coll-Dist,No,station-level from supplied S inventory,match
+S,1204701,True,True,12,5,Orange,Irvine,20.95,93.145,BAKE 2,Mainline,No,station-level from supplied S inventory,match
+S,1210257,True,True,12,5,Orange,Irvine,20.95,93.145,BAKE 2,On Ramp,No,station-level from supplied S inventory,match
+S,1210260,True,True,12,5,Orange,Irvine,20.95,93.145,BAKE 2 @ 405,Coll-Dist,No,station-level from supplied S inventory,match
+S,1210259,True,True,12,5,Orange,Irvine,20.95,93.145,BAKE 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1210258,True,True,12,5,Orange,Irvine,20.95,93.145,BAKE 2,Coll-Dist,No,station-level from supplied S inventory,match
+S,1211853,True,True,12,5,Orange,Irvine,21.25,93.445,At 405,Mainline,No,station-level from supplied S inventory,match
+S,1211854,True,True,12,5,Orange,Irvine,21.25,93.445,At 405,HOV,24H,station-level from supplied S inventory,match
+S,1211855,True,True,12,5,Orange,Irvine,21.25,93.445,S405 to S5,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1204712,True,True,12,5,Orange,Irvine,21.92,94.115,ALTON 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1204707,True,True,12,5,Orange,Irvine,21.92,94.115,ALTON 1,On Ramp,No,station-level from supplied S inventory,match
+S,1211151,True,True,12,5,Orange,Irvine,21.92,94.115,CD OFF,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1204714,True,True,12,5,Orange,Irvine,21.92,94.115,ALTON 1,HOV,24H,station-level from supplied S inventory,match
+S,1204716,True,True,12,5,Orange,Irvine,22.1,94.295,ALTON 1,Mainline,No,station-level from supplied S inventory,match
+S,1208955,True,True,12,5,Orange,Irvine,22.1,94.295,ALTON 2,HOV,24H,station-level from supplied S inventory,match
+S,1204737,True,True,12,5,Orange,Irvine,22.14,94.335,ALTON 2,Mainline,No,station-level from supplied S inventory,match
+S,1204761,True,True,12,5,Orange,Irvine,22.75,94.945,BARRANCA,Mainline,No,station-level from supplied S inventory,match
+S,1204774,True,True,12,5,Orange,Irvine,22.75,94.945,BAR.HOV OFF,Off Ramp,No,station-level from supplied S inventory,match
+S,1204759,True,True,12,5,Orange,Irvine,22.75,94.945,BARRANCA,HOV,24H,station-level from supplied S inventory,match
+S,1212715,True,True,12,5,Orange,Irvine,22.75,94.945,133S TO 5S,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1204781,True,True,12,5,Orange,Irvine,23.05,95.245,S OF 133,Mainline,No,station-level from supplied S inventory,match
+S,1204777,True,True,12,5,Orange,Irvine,23.05,95.245,S OF 133,HOV,24H,station-level from supplied S inventory,match
+S,1213879,True,True,12,5,Orange,Irvine,23.1,95.295,N OF 133,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1204796,True,True,12,5,Orange,Irvine,23.1,95.295,N OF 133,HOV,24H,station-level from supplied S inventory,match
+S,1204798,True,True,12,5,Orange,Irvine,23.1,95.295,N OF 133,Mainline,No,station-level from supplied S inventory,match
+S,1204794,True,True,12,5,Orange,Irvine,23.1,95.295,N OF 133,Off Ramp,No,station-level from supplied S inventory,match
+S,1212706,True,True,12,5,Orange,Irvine,23.2,95.395,5S TO 133S-BARA,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1204816,True,True,12,5,Orange,Irvine,R23.5,95.695,S OF SAND CNYN,Mainline,No,station-level from supplied S inventory,match
+S,1204814,True,True,12,5,Orange,Irvine,R23.5,95.695,S OF SAND CNYN,HOV,24H,station-level from supplied S inventory,match
+S,1204841,True,True,12,5,Orange,,R23.69,95.885,SAND CANYON 1,Mainline,No,station-level from supplied S inventory,match
+S,1204833,True,True,12,5,Orange,,R23.69,95.885,SAND CANYON 1,On Ramp,No,station-level from supplied S inventory,match
+S,1204839,True,True,12,5,Orange,,R23.69,95.885,SAND CANYON 1,HOV,24H,station-level from supplied S inventory,match
+S,1204867,True,True,12,5,Orange,,R24.05,96.245,SAND CANYON 2,HOV,24H,station-level from supplied S inventory,match
+S,1204869,True,True,12,5,Orange,,R24.05,96.245,SAND CANYON 2,Mainline,No,station-level from supplied S inventory,match
+S,1204857,True,True,12,5,Orange,,R24.05,96.245,SAND CANYON 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1213283,True,True,12,5,Orange,,R24.05,96.245,5SB to 133NB,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1204886,True,True,12,5,Orange,,R24.5,96.695,N OF SAND CNYN,Mainline,No,station-level from supplied S inventory,match
+S,1204884,True,True,12,5,Orange,,R24.5,96.695,N OF SAND CNYN,HOV,24H,station-level from supplied S inventory,match
+S,1204904,True,True,12,5,Orange,Irvine,R24.84,97.035,JEFFREY 1,Mainline,No,station-level from supplied S inventory,match
+S,1204893,True,True,12,5,Orange,Irvine,R24.84,97.035,JEFFREY 1,On Ramp,No,station-level from supplied S inventory,match
+S,1204902,True,True,12,5,Orange,Irvine,R24.84,97.035,JEFFREY 1,HOV,24H,station-level from supplied S inventory,match
+S,1204899,True,True,12,5,Orange,Irvine,R24.84,97.035,JEFFREY 1,Off Ramp,No,station-level from supplied S inventory,match
+S,1204944,True,True,12,5,Orange,Irvine,R25.8,97.995,YALE,Mainline,No,station-level from supplied S inventory,match
+S,1204942,True,True,12,5,Orange,Irvine,R25.8,97.995,YALE,HOV,24H,station-level from supplied S inventory,match
+S,1204965,True,True,12,5,Orange,Irvine,R26.35,98.545,CULVER 1,HOV,24H,station-level from supplied S inventory,match
+S,1204959,True,True,12,5,Orange,Irvine,R26.35,98.545,CULVER 1,On Ramp,No,station-level from supplied S inventory,match
+S,1204967,True,True,12,5,Orange,Irvine,R26.35,98.545,CULVER 1,Mainline,No,station-level from supplied S inventory,match
+S,1204995,True,True,12,5,Orange,Irvine,R26.66,98.855,CULVER 2,HOV,24H,station-level from supplied S inventory,match
+S,1204989,True,True,12,5,Orange,Irvine,R26.66,98.855,CULVER 2,On Ramp,No,station-level from supplied S inventory,match
+S,1204997,True,True,12,5,Orange,Irvine,R26.66,98.855,CULVER 2,Mainline,No,station-level from supplied S inventory,match
+S,1218263,True,True,12,5,Orange,Irvine,R26.66,98.855,CULVER 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1205008,True,True,12,5,Orange,Irvine,R26.81,99.005,CULVER 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1205020,True,True,12,5,Orange,Irvine,27.43,99.618,JAMBOREE 1,On Ramp,No,station-level from supplied S inventory,match
+S,1205028,True,True,12,5,Orange,Irvine,27.43,99.618,JAMBOREE 1,Mainline,No,station-level from supplied S inventory,match
+S,1205026,True,True,12,5,Orange,Irvine,27.43,99.618,JAMBOREE 1,HOV,24H,station-level from supplied S inventory,match
+S,1205062,True,True,12,5,Orange,Irvine,27.7,99.888,JAMBOREE 2,Mainline,No,station-level from supplied S inventory,match
+S,1205052,True,True,12,5,Orange,Irvine,27.7,99.888,JAMBOREE 2,On Ramp,No,station-level from supplied S inventory,match
+S,1205058,True,True,12,5,Orange,Irvine,27.7,99.888,JAMBOREE 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1205060,True,True,12,5,Orange,Irvine,27.7,99.888,JAMBOREE 2,HOV,24H,station-level from supplied S inventory,match
+S,1205105,True,True,12,5,Orange,Tustin,28.1,100.288,TUSTIN RANCH,Mainline,No,station-level from supplied S inventory,match
+S,1205103,True,True,12,5,Orange,Tustin,28.35,100.538,TUSTIN  RANCH,HOV,24H,station-level from supplied S inventory,match
+S,1205095,True,True,12,5,Orange,Tustin,28.35,100.538,TUSTIN RANCH,On Ramp,No,station-level from supplied S inventory,match
+S,1218244,True,True,12,5,Orange,Tustin,28.35,100.538,TUSTIN RANCH,Off Ramp,No,station-level from supplied S inventory,match
+S,1205122,True,True,12,5,Orange,Tustin,29.02,101.208,RED HILL*,Mainline,No,station-level from supplied S inventory,match
+S,1205112,True,True,12,5,Orange,Tustin,29.02,101.208,RED HILL,On Ramp,No,station-level from supplied S inventory,match
+S,1217887,True,True,12,5,Orange,Tustin,29.02,101.208,RED HILL,Off Ramp,No,station-level from supplied S inventory,match
+S,1205120,True,True,12,5,Orange,Tustin,29.02,101.208,RED HILL,HOV,24H,station-level from supplied S inventory,match
+S,1205139,True,True,12,5,Orange,Tustin,29.7,101.888,NEWPORT*,Mainline,No,station-level from supplied S inventory,match
+S,1208962,True,True,12,5,Orange,Tustin,29.79,101.978,NEWPORT,HOV,24H,station-level from supplied S inventory,match
+S,1212052,True,True,12,5,Orange,Tustin,29.79,101.978,NEWPORT,Off Ramp,No,station-level from supplied S inventory,match
+S,1208977,True,True,12,5,Orange,Tustin,29.9,102.088,B ST.,HOV,24H,station-level from supplied S inventory,match
+S,1208976,True,True,12,5,Orange,Tustin,29.9,102.088,B ST,Mainline,No,station-level from supplied S inventory,match
+S,1208963,True,True,12,5,Orange,Tustin,29.94,102.128,N55 to S5,HOV,24H,station-level from supplied S inventory,match
+S,1208964,True,True,12,5,Orange,Tustin,29.94,102.128,NEWPORT,Off Ramp,No,station-level from supplied S inventory,match
+S,1205166,True,True,12,5,Orange,Tustin,30.2,102.388,S OF 55*,Mainline,No,station-level from supplied S inventory,match
+S,1208993,True,True,12,5,Orange,Tustin,30.2,102.388,S OF 55,HOV,24H,station-level from supplied S inventory,match
+S,1205169,True,True,12,5,Orange,Tustin,30.4,102.588,N OF 55,Mainline,No,station-level from supplied S inventory,match
+S,1209014,True,True,12,5,Orange,Tustin,30.4,102.588,N OF 55,HOV,24H,station-level from supplied S inventory,match
+S,1205173,True,True,12,5,Orange,Tustin,30.6,102.788,WILLIAMS (VIADUCT),HOV,24H,station-level from supplied S inventory,match
+S,1205177,True,True,12,5,Orange,Santa Ana,30.9,103.088,1ST,On Ramp,No,station-level from supplied S inventory,match
+S,1205182,True,True,12,5,Orange,Santa Ana,30.9,103.088,1ST,Mainline,No,station-level from supplied S inventory,match
+S,1209694,True,True,12,5,Orange,Santa Ana,30.9,103.088,1ST,HOV,24H,station-level from supplied S inventory,match
+S,1209840,True,True,12,5,Orange,Santa Ana,31,103.188,S5 to S55 HOV VIA,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1209728,True,True,12,5,Orange,Santa Ana,31.23,103.418,4TH,HOV,24H,station-level from supplied S inventory,match
+S,1205189,True,True,12,5,Orange,Santa Ana,31.23,103.418,4TH,Mainline,No,station-level from supplied S inventory,match
+S,1209731,True,True,12,5,Orange,Santa Ana,31.23,103.418,4TH,Off Ramp,No,station-level from supplied S inventory,match
+S,1212742,True,True,12,5,Orange,Santa Ana,31.23,103.418,5S HOV TO 55S HOV,Off Ramp,No,station-level from supplied S inventory,match
+S,1205200,True,True,12,5,Orange,Santa Ana,31.4,103.588,CONCORD,Mainline,No,station-level from supplied S inventory,match
+S,1205198,True,True,12,5,Orange,Santa Ana,31.4,103.588,CONCORD,HOV,24H,station-level from supplied S inventory,match
+S,1205211,True,True,12,5,Orange,Santa Ana,31.6,103.788,1GRAND 1,Mainline,No,station-level from supplied S inventory,match
+S,1212046,True,True,12,5,Orange,Santa Ana,31.6,103.788,GRAND 1,HOV,24H,station-level from supplied S inventory,match
+S,1212780,True,True,12,5,Orange,Santa Ana,31.6,103.788,GRAND 1 HOV ON,On Ramp,No,station-level from supplied S inventory,match
+S,1205230,True,True,12,5,Orange,Santa Ana,31.9,104.088,GRAND 2,Mainline,No,station-level from supplied S inventory,match
+S,1209777,True,True,12,5,Orange,Santa Ana,32,104.188,GRAND 2,On Ramp,No,station-level from supplied S inventory,match
+S,1209779,True,True,12,5,Orange,Santa Ana,32,104.188,GRAND 2,HOV,24H,station-level from supplied S inventory,match
+S,1209778,True,True,12,5,Orange,Santa Ana,32,104.188,GRAND 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1205246,True,True,12,5,Orange,Santa Ana,32.25,104.438,17TH 1,Mainline,No,station-level from supplied S inventory,match
+S,1205239,True,True,12,5,Orange,Santa Ana,32.25,104.438,17TH 1,On Ramp,No,station-level from supplied S inventory,match
+S,1205244,True,True,12,5,Orange,Santa Ana,32.25,104.438,17TH 1,Off Ramp,No,station-level from supplied S inventory,match
+S,1209826,True,True,12,5,Orange,Santa Ana,32.25,104.438,17TH 1,HOV,24H,station-level from supplied S inventory,match
+S,1205276,True,True,12,5,Orange,Santa Ana,33,105.188,MAIN 1,Mainline,No,station-level from supplied S inventory,match
+S,1205271,True,True,12,5,Orange,Santa Ana,33,105.188,MAIN 1,On Ramp,No,station-level from supplied S inventory,match
+S,1209950,True,True,12,5,Orange,Santa Ana,33,105.188,MAIN 1,HOV,24H,station-level from supplied S inventory,match
+S,1209967,True,True,12,5,Orange,Santa Ana,33.2,105.388,MAIN 2,HOV,24H,station-level from supplied S inventory,match
+S,1218188,True,True,12,5,Orange,Santa Ana,33.2,105.388,MAIN 2,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1205286,True,True,12,5,Orange,Santa Ana,33.2,105.388,MAIN 2,Mainline,No,station-level from supplied S inventory,match
+S,1210002,True,True,12,5,Orange,Santa Ana,33.3,105.488,BROADWAY,Off Ramp,No,station-level from supplied S inventory,match
+S,1210001,True,True,12,5,Orange,Santa Ana,33.3,105.488,S57 to S5 at BDWY,Coll-Dist,No,station-level from supplied S inventory,match
+S,1210000,True,True,12,5,Orange,Santa Ana,33.3,105.488,BROADWAY,HOV,24H,station-level from supplied S inventory,match
+S,1210003,True,True,12,5,Orange,Santa Ana,33.3,105.488,BROADWAY (MAIN OFF),Off Ramp,No,station-level from supplied S inventory,match
+S,1205297,True,True,12,5,Orange,Santa Ana,33.3,105.488,BROADWAY,Mainline,No,station-level from supplied S inventory,match
+S,1210014,True,True,12,5,Orange,Santa Ana,33.6,105.788,SANTIAGO,HOV,24H,station-level from supplied S inventory,match
+S,1210030,True,True,12,5,Orange,Santa Ana,33.8,105.988,E22 TO S5 ONLY,Off Ramp,No,station-level from supplied S inventory,match
+S,1210031,True,True,12,5,Orange,Santa Ana,33.8,105.988,S OF 22,HOV,24H,station-level from supplied S inventory,match
+S,1210025,True,True,12,5,Orange,Santa Ana,33.8,105.988,"S5&S57 to M,B,S5",Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1210029,True,True,12,5,Orange,Santa Ana,33.8,105.988,"E22 to M,B,S5",Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1205310,True,True,12,5,Orange,Santa Ana,33.8,105.988,S OF 22,Mainline,No,station-level from supplied S inventory,match
+S,1210051,True,True,12,5,Orange,Orange,34.1,106.288,LA VETA  S5 TO BRIST,Off Ramp,No,station-level from supplied S inventory,match
+S,1210055,True,True,12,5,Orange,Orange,34.1,106.288,LA VETA S5 TO M & B,Off Ramp,No,station-level from supplied S inventory,match
+S,1205324,True,True,12,5,Orange,Orange,34.1,106.288,LA VETA,Mainline,No,station-level from supplied S inventory,match
+S,1210054,True,True,12,5,Orange,Orange,34.1,106.288,S57 to S5 La Veta,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1210053,True,True,12,5,Orange,Orange,34.1,106.288,S57 to E22 La Veta,Off Ramp,No,station-level from supplied S inventory,match
+S,1210052,True,True,12,5,Orange,Orange,34.1,106.288,S5 to E22 La Veta,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1210036,True,True,12,5,Orange,Orange,34.2,106.388,LA VETA,HOV,24H,station-level from supplied S inventory,match
+S,1205335,True,True,12,5,Orange,Orange,34.3,106.488,N OF 57,Mainline,No,station-level from supplied S inventory,match
+S,1220427,True,True,12,5,Orange,Santa Ana,34.4,106.588,N OF 57,HOV,24H,station-level from supplied S inventory,match
+S,1212014,True,True,12,5,Orange,Santa Ana,34.4,106.588,N OF 57*,HOV,24H,station-level from supplied S inventory,match
+S,1212017,True,True,12,5,Orange,Santa Ana,34.4,106.588,5S OFF TO LA VETA,Off Ramp,No,station-level from supplied S inventory,match
+S,1212018,True,True,12,5,Orange,Santa Ana,34.4,106.588,S5 TO E22,Off Ramp,No,station-level from supplied S inventory,match
+S,1205349,True,True,12,5,Orange,Santa Ana,34.6,106.788,CHAPMAN 1,Mainline,No,station-level from supplied S inventory,match
+S,1205344,True,True,12,5,Orange,Santa Ana,34.6,106.788,CHAPMAN 1,On Ramp,No,station-level from supplied S inventory,match
+S,1205353,True,True,12,5,Orange,Santa Ana,34.6,106.788,CHAPMAN 1,HOV,24H,station-level from supplied S inventory,match
+S,1205358,True,True,12,5,Orange,Orange,35.2,107.388,STATE COLLEGE,On Ramp,No,station-level from supplied S inventory,match
+S,1212240,True,True,12,5,Orange,Orange,35.2,107.388,STATE COLLEGE,Off Ramp,No,station-level from supplied S inventory,match
+S,1212236,True,True,12,5,Orange,Orange,35.2,107.388,STATE COLLEGE,HOV,24H,station-level from supplied S inventory,match
+S,1205364,True,True,12,5,Orange,Orange,35.2,107.388,STATE COLLEGE,Mainline,No,station-level from supplied S inventory,match
+S,1212147,True,True,12,5,Orange,Orange,35.4,107.588,ORANGEWOOD 1,HOV,24H,station-level from supplied S inventory,match
+S,1212095,True,True,12,5,Orange,Orange,35.4,107.588,ORANGEWOOD 1,On Ramp,No,station-level from supplied S inventory,match
+S,1212094,True,True,12,5,Orange,Orange,35.4,107.588,ORANGEWOOD 1,Mainline,No,station-level from supplied S inventory,match
+S,1212253,True,True,12,5,Orange,Orange,35.6,107.788,HOV GENE AUTRY ON,On Ramp,No,station-level from supplied S inventory,match
+S,1205384,True,True,12,5,Orange,Orange,35.6,107.788,GENE AUTRY,Mainline,No,station-level from supplied S inventory,match
+S,1212249,True,True,12,5,Orange,Orange,35.6,107.788,GENE AUTRY,HOV,24H,station-level from supplied S inventory,match
+S,1212149,True,True,12,5,Orange,Orange,36.31,108.498,KATELLA,HOV,24H,station-level from supplied S inventory,match
+S,1213941,True,True,12,5,Orange,Orange,36.31,108.498,KATELLA,Off Ramp,No,station-level from supplied S inventory,match
+S,1213940,True,True,12,5,Orange,Orange,36.31,108.498,KATELLA,Off Ramp,No,station-level from supplied S inventory,match
+S,1205389,True,True,12,5,Orange,Orange,36.31,108.498,KATELLA,On Ramp,No,station-level from supplied S inventory,match
+S,1205395,True,True,12,5,Orange,Orange,36.31,108.498,KATELLA,Mainline,No,station-level from supplied S inventory,match
+S,1212262,True,True,12,5,Orange,Orange,36.4,108.588,HOV GENE AUTRY OFF,Off Ramp,No,station-level from supplied S inventory,match
+S,1213932,True,True,12,5,Orange,Orange,36.48,108.668,ANAHEIM 1,Off Ramp,No,station-level from supplied S inventory,match
+S,1212230,True,True,12,5,Orange,Orange,36.48,108.668,ANAHEIM 1,HOV,24H,station-level from supplied S inventory,match
+S,1205419,True,True,12,5,Orange,Orange,36.48,108.668,ANAHEIM 1,Off Ramp,No,station-level from supplied S inventory,match
+S,1205414,True,True,12,5,Orange,Orange,36.48,108.668,ANAHEIM 1,On Ramp,No,station-level from supplied S inventory,match
+S,1205421,True,True,12,5,Orange,Orange,36.48,108.668,ANAHEIM 1,Mainline,No,station-level from supplied S inventory,match
+S,1212225,True,True,12,5,Orange,Anaheim,36.6,108.788,ANAHEIM 2,HOV,24H,station-level from supplied S inventory,match
+S,1212116,True,True,12,5,Orange,Anaheim,36.6,108.788,ANAHEIM 2,Mainline,No,station-level from supplied S inventory,match
+S,1212226,True,True,12,5,Orange,Anaheim,36.6,108.788,DISNEY WAY,Off Ramp,No,station-level from supplied S inventory,match
+S,1212218,True,True,12,5,Orange,Anaheim,37,109.188,S OF HARBOR,Mainline,No,station-level from supplied S inventory,match
+S,1212219,True,True,12,5,Orange,Anaheim,37,109.188,S OF HARBOR,HOV,24H,station-level from supplied S inventory,match
+S,1205440,True,True,12,5,Orange,Anaheim,37.48,109.668,HARBOR,Mainline,No,station-level from supplied S inventory,match
+S,1205437,True,True,12,5,Orange,Anaheim,37.48,109.668,HARBOR,On Ramp,No,station-level from supplied S inventory,match
+S,1212185,True,True,12,5,Orange,Anaheim,37.48,109.668,HARBOR,Off Ramp,No,station-level from supplied S inventory,match
+S,1212184,True,True,12,5,Orange,Anaheim,37.48,109.668,HARBOR,HOV,24H,station-level from supplied S inventory,match
+S,1212190,True,True,12,5,Orange,Anaheim,37.7,109.888,BALL,HOV,24H,station-level from supplied S inventory,match
+S,1205457,True,True,12,5,Orange,Anaheim,38,110.188,SOUTH 1,On Ramp,No,station-level from supplied S inventory,match
+S,1212195,True,True,12,5,Orange,Anaheim,38,110.188,SOUTH 1,HOV,24H,station-level from supplied S inventory,match
+S,1205463,True,True,12,5,Orange,Anaheim,38,110.188,SOUTH 1,Mainline,No,station-level from supplied S inventory,match
+S,1205482,True,True,12,5,Orange,Anaheim,38.48,110.668,PEPPER,HOV,24H,station-level from supplied S inventory,match
+S,1205478,True,True,12,5,Orange,Anaheim,38.48,110.668,PEPPER,Mainline,No,station-level from supplied S inventory,match
+S,1212202,True,True,12,5,Orange,Anaheim,38.48,110.668,DISNEY DR. OFFRAMP,Off Ramp,No,station-level from supplied S inventory,match
+S,1212201,True,True,12,5,Orange,Anaheim,38.48,110.668,HOV OFF DISNEYLAND,Off Ramp,No,station-level from supplied S inventory,match
+S,1212662,True,True,12,5,Orange,Anaheim,39,111.188,LINCOLN,Mainline,No,station-level from supplied S inventory,match
+S,1212663,True,True,12,5,Orange,Anaheim,39,111.188,LINCOLN,On Ramp,No,station-level from supplied S inventory,match
+S,1212661,True,True,12,5,Orange,Anaheim,39,111.188,LINCOLN,HOV,24H,station-level from supplied S inventory,match
+S,1212647,True,True,12,5,Orange,Anaheim,39.3,111.488,EUCLID 1,Off Ramp,No,station-level from supplied S inventory,match
+S,1212644,True,True,12,5,Orange,Anaheim,39.3,111.488,EUCLID 1,HOV,24H,station-level from supplied S inventory,match
+S,1212646,True,True,12,5,Orange,Anaheim,39.3,111.488,EUCLID 1,On Ramp,No,station-level from supplied S inventory,match
+S,1212645,True,True,12,5,Orange,Anaheim,39.3,111.488,EUCLID 1,Mainline,No,station-level from supplied S inventory,match
+S,1212690,True,True,12,5,Orange,Anaheim,39.6,111.788,EUCLID 2,HOV,24H,station-level from supplied S inventory,match
+S,1212692,True,True,12,5,Orange,Anaheim,39.6,111.788,EUCLID 2,Off Ramp,No,station-level from supplied S inventory,match
+S,1205508,True,True,12,5,Orange,Anaheim,39.6,111.788,EUCLID 2,Mainline,No,station-level from supplied S inventory,match
+S,1212579,True,True,12,5,Orange,Anaheim,40.04,112.228,CRESCENT,HOV,24H,station-level from supplied S inventory,match
+S,1205532,True,True,12,5,Orange,Anaheim,40.04,112.228,CRESCENT,Mainline,No,station-level from supplied S inventory,match
+S,1205541,True,True,12,5,Orange,Anaheim,40.5,112.688,BROOKHURST 1,Mainline,No,station-level from supplied S inventory,match
+S,1212594,True,True,12,5,Orange,Anaheim,40.5,112.688,BROOKHURST 1,HOV,24H,station-level from supplied S inventory,match
+S,1205537,True,True,12,5,Orange,Anaheim,40.5,112.688,BROOKHURST 1,On Ramp,No,station-level from supplied S inventory,match
+S,1212596,True,True,12,5,Orange,Anaheim,40.5,112.688,BROOKHURST 1,Off Ramp,No,station-level from supplied S inventory,match
+S,1212610,True,True,12,5,Orange,Anaheim,40.98,113.168,LA PALMA,HOV,24H,station-level from supplied S inventory,match
+S,1212611,True,True,12,5,Orange,Anaheim,40.98,113.168,LA PALMA,Mainline,No,station-level from supplied S inventory,match
+S,1205572,True,True,12,5,Orange,Anaheim,41.34,113.528,GILBERT,Mainline,No,station-level from supplied S inventory,match
+S,1212673,True,True,12,5,Orange,Anaheim,41.34,113.528,GILBERT,HOV,24H,station-level from supplied S inventory,match
+S,1205583,True,True,12,5,Orange,Anaheim,41.8,113.988,MAGNOLIA,Mainline,No,station-level from supplied S inventory,match
+S,1205577,True,True,12,5,Orange,Anaheim,41.8,113.988,MAGNOLIA,On Ramp,No,station-level from supplied S inventory,match
+S,1213409,True,True,12,5,Orange,Anaheim,41.8,113.988,MAGNOLIA,Off Ramp,No,station-level from supplied S inventory,match
+S,1213417,True,True,12,5,Orange,Anaheim,41.8,113.988,MAGNOLIA,HOV,24H,station-level from supplied S inventory,match
+S,1213410,True,True,12,5,Orange,Anaheim,41.81,113.998,MAGNOLIA 91E OFF,Off Ramp,No,station-level from supplied S inventory,match
+S,1214006,True,True,12,5,Orange,Anaheim,41.9,114.088,N OF MAGNOLIA,Mainline,No,station-level from supplied S inventory,match
+S,1214008,True,True,12,5,Orange,Anaheim,41.9,114.088,N OF MAGNOLIA,HOV,24H,station-level from supplied S inventory,match
+S,1214011,True,True,12,5,Orange,Anaheim,41.9,114.088,N OF MAGNOLIA,Off Ramp,No,station-level from supplied S inventory,match
+S,1205612,True,True,12,5,Orange,Fullerton,42.52,114.708,ORANGETHORPE 2,Mainline,No,station-level from supplied S inventory,match
+S,1216523,True,True,12,5,Orange,Fullerton,42.52,114.708,ORANGETHORPE 2,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1216518,True,True,12,5,Orange,Fullerton,42.52,114.708,ORANGETHORPE 2,HOV,24H,station-level from supplied S inventory,match
+S,1216506,True,True,12,5,Orange,Buena Park,42.7,114.888, N OF ORANGETHORPE,Mainline,No,station-level from supplied S inventory,match
+S,1216508,True,True,12,5,Orange,Buena Park,42.7,114.888,N OF ORANGETHORPE,HOV,24H,station-level from supplied S inventory,match
+S,1216512,True,True,12,5,Orange,Buena Park,43,115.188,SB 5 to EB 91,Fwy-Fwy,No,station-level from supplied S inventory,match
+S,1205627,True,True,12,5,Orange,Buena Park,43.01,115.198,STANTON,Mainline,No,station-level from supplied S inventory,match
+S,1216486,True,True,12,5,Orange,Buena Park,43.01,115.198,STANTON,HOV,24H,station-level from supplied S inventory,match
+S,1216418,True,True,12,5,Orange,Buena Park,43.3,115.488,BEACH 1,Off Ramp,No,station-level from supplied S inventory,match
+S,1216417,True,True,12,5,Orange,Buena Park,43.3,115.488,BEACH 1,On Ramp,No,station-level from supplied S inventory,match
+S,1205632,True,True,12,5,Orange,Buena Park,43.3,115.488,BEACH 1,Mainline,No,station-level from supplied S inventory,match
+S,1216408,True,True,12,5,Orange,Buena Park,43.3,115.488,BEACH 1,HOV,24H,station-level from supplied S inventory,match
+S,1216591,True,True,12,5,Orange,Buena Park,43.6,115.788,BEACH 2,HOV,24H,station-level from supplied S inventory,match
+S,1216589,True,True,12,5,Orange,Buena Park,43.6,115.788,BEACH 2,Mainline,No,station-level from supplied S inventory,match
+S,1216530,True,True,12,5,Orange,Buena Park,43.9,116.088,Western,Mainline,No,station-level from supplied S inventory,match
+S,1216532,True,True,12,5,Orange,Buena Park,43.9,116.088,Western,HOV,24H,station-level from supplied S inventory,match
+S,1216566,True,True,12,5,Orange,Buena Park,44.2,116.388,ARTESIA 1,HOV,24H,station-level from supplied S inventory,match
+S,1216579,True,True,12,5,Orange,Buena Park,44.2,116.388,ARTESIA 1,On Ramp,No,station-level from supplied S inventory,match
+S,1205668,True,True,12,5,Orange,Buena Park,44.2,116.388,ARTESIA 1,Mainline,No,station-level from supplied S inventory,match
+S,1216573,True,True,12,5,Orange,Buena Park,44.2,116.388,ARTESIA 1,Off Ramp,No,station-level from supplied S inventory,match
