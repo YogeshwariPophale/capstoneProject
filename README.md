@@ -28,6 +28,8 @@ Reproduce the station comparison with `python scripts/validate_d12_station_inven
 
 Run the initial model with `python scripts/train_i5_d12_speed_forecast.py`. See `reports/models/i5_d12_speed_forecast_model_card.md` for target, quality rule, split, metrics, and limitations; sampled held-out predictions and the fitted model are saved under `reports/models/`.
 
+Run the separate 15-minute congestion classification experiment with `python scripts/train_i5_d12_congestion_classifiers.py`. The script rebuilds eligible windows directly from the processed monthly data and does not import the speed-regression trainer. It trains persistence, Logistic Regression, Random Forest, and HistGradientBoosting classifiers on the same features, cohort, quality rule, and chronological splits. Results and each fitted estimator are written under `reports/models/congestion_classifiers/`. The paper's speed bands overlap and also depend on density; this run uses an explicitly documented speed-only proxy with severe-first precedence. Treat its scores as exploratory until the label definition is validated against PeMS measurement conventions.
+
 See `reports/models/checkpoints.md` for completed modeling milestones and the next evaluation and labeling checkpoints.
 
 The full holdout error review is `reports/models/i5_d12_forecast_error_review.md`; subgroup metrics, the largest-error table, and the reproducible evaluator are saved alongside it.

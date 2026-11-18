@@ -46,22 +46,30 @@ This log records completed modeling milestones and the criteria for advancing to
 
 ## Checkpoint 4 — Congestion target definition
 
-**Status: pending**
+**Status: implemented for an exploratory classifier; validation remains open**
 
-- Decide whether the project will add congestion classification alongside continuous speed forecasting.
-- Review the reference paper’s speed/density categories against PeMS field definitions and the available variables; do not assume exploratory 30/40/50 mph cutoffs are validated labels.
-- Document the chosen threshold(s), quality rule, episode handling, and target timing before producing labels.
-- Check class prevalence and station/time coverage before model training.
+- Added a four-class speed-only operational proxy using the reference paper's speed ranges converted to mph. Because the printed bands overlap, the implementation applies severe-first precedence: Severe <40 km/h; Moderate 40–64 km/h; Slight >64–80 km/h; Free >80 km/h.
+- This does not reproduce the paper's density-plus-speed labels. The paper's unit, lane, and density conventions still need review before treating these states as validated congestion ground truth.
+- Used the existing 90% observed rule, exact five-minute continuity, and t+15 target alignment.
+- Reviewed class coverage: eligible test labels are Free 1,753,539; Slight 33,526; Moderate 45,353; Severe 10,887 (1,843,305 total).
 
-**Complete when:** the label definition is documented, implementable from the available fields, and its prevalence/coverage has been reviewed on the intended date window.
+## Checkpoint 5 — Congestion classifier comparison
 
-## Checkpoint 5 — Model comparison and final evaluation
+**Status: first comparable run complete; label validation and final interpretation remain open**
 
-**Status: pending**
+- Trained persistence, Logistic Regression, Random Forest, and HistGradientBoosting classifiers on the same 17 features, matched District 12 mainline cohort, quality rule, and chronological splits as the speed benchmark.
+- Train: Jan-May (5,608,018 eligible; 300,000 sampled). Validation: June (901,020 scored). Test: July-August (1,843,305 scored).
+- Full test results:
 
-- Keep persistence as the minimum baseline.
-- Compare the speed regressor with at least one additional suitable model using the same inputs, chronological split, and test set.
-- If a congestion label is approved, train classification baselines separately and report metrics appropriate to class imbalance, including precision, recall, F1, and confusion matrix.
-- Freeze the evaluation period before final model selection; do not tune on the held-out test period.
+| Model | Accuracy | Balanced accuracy | Macro-F1 | Weighted-F1 |
+|---|---:|---:|---:|---:|
+| Persistence | 0.9722 | 0.7145 | 0.7147 | 0.9722 |
+| Logistic Regression | 0.9460 | 0.7678 | 0.6734 | 0.9569 |
+| Random Forest | 0.9708 | 0.7611 | 0.7273 | 0.9721 |
+| HistGradientBoosting | 0.9464 | 0.7974 | 0.6858 | 0.9574 |
 
-**Complete when:** model comparisons use consistent data and splits, test results are reported with sample counts, and limitations are written into the report.
+- The test set is strongly imbalanced toward Free (95.1%). Random Forest has the highest macro-F1; HistGradientBoosting has the highest balanced accuracy and recall for Slight and Severe. Persistence remains strong on aggregate accuracy because Free dominates. Use per-class metrics and confusion matrices when interpreting models.
+- Fitted estimators, shared metrics, confusion matrices, class prevalence, and a deterministic 150,000-row test prediction sample are saved under `reports/models/congestion_classifiers/`.
+- The speed-regression comparison remains separate because its continuous target and metrics cannot be compared directly with classification scores. Held-out test data were evaluated once and were not used for tuning.
+
+**Next:** validate or revise the speed-only proxy before presenting it as congestion ground truth; inspect false negatives and false alarms by direction, station, and time; update the final report with this classifier experiment and its limitations.
